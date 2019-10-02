@@ -25,21 +25,21 @@
 |15|محبوبه خادمی|طراح گرافیک و تصویرگر. تخصص اصلی تصویرسازی و طراحی لوگو|[![توییتر][twitter]](https://twitter.com/mahkhademi)|-|-|-|[![اینستاگرام][instagram]](http://instagram.com/mahkhademi)|-|
 |16|یاسمین افشار|پژوهشگر شهری و متخصص برنامه‌ریزی توسعه. تخصص اصلی درزمینۀ ارزیابی توسعۀ پایدار و مشاور مسئولیت اجتماعی سازمانی|[![توییتر][twitter]](https://twitter.com/yasminafs)|[![لینکدین][linkedin]](https://www.linkedin.com/in/yasminafshar/)|-|-|-|-|
 |17|نیما شفیع‌زاده|گیک بازاریابی محتوایی.|[![توییتر][twitter]](https://twitter.com/NimaShafiezadeh/)|[![لینکدین][linkedin]](https://linkedin.com/in/NimaShafiezadeh/)|-|[![وبلاگ][blog]](https://www.nima.today)|[![اینستاگرام][instagram]](https://instagram.com/NimaShafiezadeh/)|-|
-|18|صبا|مترجم زبان انگلیسی|[![توییتر][twitter]](https://twitter.com/sabaatmr)|-|-|-|-|-|
-|19|میلاد غدیریان|برنامه نویس وب و موبایل. تخصص در ریکت و لاراول.|[![توییتر][twitter]](https://twitter.com/MiladGhadirian)|-|-|-|-|-|
+|18|صبا|مترجم زبان انگلیسی و آشنا به  ادورتایزینگ و کانتنت مارکتینگ.|[![توییتر][twitter]](https://twitter.com/sabaatmr)|-|-|-|-|-|
+|19|میلاد قدیریان|برنامه نویس وب و موبایل. تخصص در ریکت و لاراول و جاوا اندروید.|[![توییتر][twitter]](https://twitter.com/MiladGhadirian)|-|-|-|-|-|
 |20|ایمان شیرانی|موشن گرافیست و انیماتور. کارگردانی و مدل سازی.|[![توییتر][twitter]](https://twitter.com/imanshirani)|-|-|-|[![اینستاگرام][instagram]](https://www.instagram.com/myartsbox/)|-|
-|21|بهروز خذری|توسعه‌دهنده اندروید. متخصص کار بر روی داده‌های مکانی GIS|[![توییتر][twitter]](https://twitter.com/bkhezry)|[![گیت‌هاب][github]](https://github.com/bkhezry)|-|-|-|-|
-|22|مینا| توسعه دهنده اندروید. زبان برنامه نویسی جاوا.|[![توییتر][twitter]](https://twitter.com/ManMinam)|-|-|-|-|-|
-|23|مینا|طراح وبسایت و برنامه نویسی وب. تخصص در سی ام اس هایی نظیر وردپرس و پرستا شاپ|[![توییتر][twitter]](https://twitter.com/itsmina_ir)|-|-|-|-|-|
-|24|-|گرافیست، عکاس لایف استایل و طراح پستر.|[![توییتر][twitter]](https://twitter.com/mimjeh)|-|-|-|-|-|
-|25|الاهه بیگی|تصویر ساز. متخصص تصویر سازی برای وب سایت و طراحی پستر.|[![توییتر][twitter]](https://twitter.com/elaheh_bgi)|-|-|-|[![اینستاگرام][instagram]](http://instagram.com/elaheh_beigiii)|-|
-|26|سبحان مرادی|برنامه نویس فلاتر. متخصص فرانت اند و آشنا به برنامه نویسی بک اند.|[![توییتر][twitter]](https://twitter.com/sobhanm28)|-|-|-|[![اینستاگرام][instagram]](https://www.instagram.com/sobhanm28)|-|
-|27|امیر معماری|توسعه دهنده وب. تخصص در فرانت اند.|[![توییتر][twitter]](https://twitter.com/AmirMeimari)|-|-|[![وبلاگ][blog]](http://amirmeimari.ir/)|-|-|
-|28|علی میرزایی|برنامه نویس سیستم. متخصص امبدد، سی پلاس و سی شارپ. آشنا به پایتون|[![توییتر][twitter]](https://twitter.com/Mirzaee__Ali)|-|-|-|-|-|
-|29|محمد حسینی|برنامه نویس اندروید نیتیو. متخصص جاوا و کاتلین.|[![توییتر][twitter]](https://twitter.com/mohosyny)|-|-|-|-|-|
-|30|آیدا|توسعه دهنده اندروید. آشنا به جاوا و کاتلین.|[![توییتر][twitter]](https://twitter.com/aida47095197)|-|-|-|-|-|
-|31|امین نجفی|طراحی رابط کاربری. تخصص در تصویر سازی، برندیگ و هویت بصری|[![توییتر][twitter]](https://twitter.com/iAminNajafi)|-|-|-|-|-|-|
-|32|آرمان جعفرنژاد|توسعه دهنده وب. دانشجوی Computer Science گرایش هوش مصنوعی. پدرِ Termustat.ir|[![توییتر][twitter]](https://twitter.com/theArmanJunior)|[![لینکدین][linkedin]](https://www.linkedin.com/in/ArmanJ)|[![گیت‌هاب][github]](https://github.com/ArmanJR)|-|[![اینستاگرام][instagram]](https://www.instagram.com/armanhimself/)|
+|21|بهروز خضری|توسعه‌دهنده اندروید. متخصص کار بر روی داده‌های مکانی GIS|[![توییتر][twitter]](https://twitter.com/bkhezry)|-|[![گیت‌هاب][github]](https://github.com/bkhezry)|-|-|-|
+|22|مینا| توسعه دهنده اندروید. زبان برنامه نویسی جاوا.|[![توییتر][twitter]](https://mobile.twitter.com/ManMinam)|-|-|-|-|-|
+|23|مینا|طراح وبسایت و برنامه نویسی وب. تخصص در سی ام اس هایی نظیر وردپرس و پرستا شاپ|[![توییتر][twitter]](https://mobile.twitter.com/itsmina_ir)|-|-|-|-|-|
+|24|مه‌رو جعفری|گرافیست، عکاس لایف استایل و طراح پستر.|[![توییتر][twitter]](https://mobile.twitter.com/mimjeh)|-|-|-|[![اینستاگرام][instagram]](https://www.instagram.com/mahroo.jafari)|-|
+|25|الاهه بیگی|تصویر ساز. متخصص تصویر سازی برای وب سایت و طراحی پستر.|[![توییتر][twitter]](https://mobile.twitter.com/elaheh_bgi)|-|-|-|[![اینستاگرام][instagram]](http://instagram.com/elaheh_beigiii)|-|
+|26|سبحان مرادی|برنامه نویس فلاتر. متخصص فرانت اند و آشنا به برنامه نویسی بک اند.|[![توییتر][twitter]](https://mobile.twitter.com/sobhanm28)|-|-|-|[![اینستاگرام][instagram]](https://www.instagram.com/sobhanm28)-|
+|27|امیر معماری|توسعه دهنده وب. تخصص در فرانت اند.|[![توییتر][twitter]](https://mobile.twitter.com/AmirMeimari)|-|-|[![وبلاگ][blog]](http://amirmeimari.ir/)|--|
+|28|علی میرزایی|برنامه نویس سیستم. متخصص امبدد، سی پلاس و سی شارپ. آشنا به پایتون|[![توییتر][twitter]](https://mobile.twitter.com/Mirzaee__Ali)|-|-|-|-|-|
+|29|محمد حسینی|برنامه نویس اندروید نیتیو. متخصص جاوا و کاتلین.|[![توییتر][twitter]](https://mobile.twitter.com/mohosyny)|-|-|-|-|-|
+|30|آیدا|توسعه دهنده اندروید. آشنا به جاوا و کاتلین.|[![توییتر][twitter]](https://mobile.twitter.com/aida47095197)|-|-|-|-|-|
+|31|امین نجفی|طراحی رابط کاربری. تخصص در تصویر سازی، برندیگ و هویت بصری|[![توییتر][twitter]](https://twitter.com/iAminNajafi)||-|-|-|-|-|
+|32|آرمان جعفرنژاد|توسعه دهنده وب. دانشجوی Computer Science گرایش هوش مصنوعی. پدرِ Termustat.ir|[![توییتر][twitter]](https://twitter.com/theArmanJunior)|[![لینکدین][linkedin]](https://www.linkedin.com/in/ArmanJ)|[![گیت‌هاب][github]](https://github.com/ArmanJR)|-|[![اینستاگرام][instagram]](https://www.instagram.com/armanhimself/)|-|
 </div>
 
 [twitter]: assets/icons/twitter-square.svg 
