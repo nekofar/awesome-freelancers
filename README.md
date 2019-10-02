@@ -21,6 +21,6 @@
 فرنوش جمالی|طراح UI/UX و مدرس دانشگاه. تخصص اصلی درزمینۀ طراحی تجربه و رابط کاربری|[توییتر](https://twitter.com/FarnooshJml)|[لینکدین](https://www.linkedin.com/in/farnooshjml)|-|[وبلاگ](https://virgool.io/@farnoosh)|
 |مهدی رضایی|گرافیست و طراح رابط و تجربۀ کاربری. تخصص اصلی درزمینۀ طراحی لوگو و طراحی رابط کاربری|[توییتر](https://twitter.com/MehdiRezaei6?s=09)|[لینکدین](https://www.linkedin.com/in/mehdirezaeigraphist/)|-|-|
 |مهدی زارع سریزدی|کارشناس محتوا و نویسنده‌. تخصص اصلی درزمینۀ مدیریت تیم‌های محتوایی و نگارش محتوا|[توییتر](https://twitter.com/mehdizare89)|[لینکدین](https://www.linkedin.com/in/1zare/)|-|-|
-
+|مسعود زارعی|طراح گرافیک و متخصص در طراحی لوگو و برندینگ|[توییتر](https://twitter.com/mimphys)|-|-|-|
 
 </div>
