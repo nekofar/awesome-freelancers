@@ -14,10 +14,8 @@
 |رضا ساسانیان|خبرنگار آزاد و طراح گرافیک. فعالیت اصلی در حوزۀ خبر و طراحی لوگو.|[توییتر](https://twitter.com/ReSasanian)|-|-|-|
 |سارا حلم‌زاده|مدیر محصول. تخصص اصلی درزمینۀ تدوین استراتژی محصول، طراحی محصول و بهبود روش‌های توسعۀ محصول.|[توییتر](https://twitter.com/Flirticia)|[لینکدین](https://www.linkedin.com/in/sarah-helmzadeh-7958a03a/)|-|[وبلاگ](https://virgool.io/@Flirticia)|
 |سپیده سعید|متخصص دیجیتال مارکتینگ|[توییتر](https://twitter.com/sepidehsaied)|[لینکدین](https://www.linkedin.com/in/sepideh-saied-26159056/)|-|-|
-|سعید مسلمی|متخصص دیجیتال مارکتینگ. تخصص اصلی در زمینۀ گوگل ادز.|[توییتر](https://twitter.com/SMoslemi)|[لینکدین](https://www.linkedin.com/in/sepideh-saied-26159056/)|-|-|
+|سعید مسلمی|متخصص دیجیتال مارکتینگ. تخصص اصلی در زمینۀ گوگل ادز.|[توییتر](https://twitter.com/SMoslemi)|[لینکدین](https://www.linkedin.com/in/smoslemi/)|-|-|
+|سحر سبحانی|تصویرگر. تخصص درزمینۀ طراحی کاراکتر. تجربیات بیشتر درزمینۀ دیجیتال و فضاهای استارتاپی.|[توییتر](https://twitter.com/sahar_sobhani)|-|-|-|
+|فرید کامران‌نیا|عکاس و تولیدکنندۀ ویدئو و علاقه‌مند به امور غذایی |[توییتر](https://twitter.com/FKamrannia)|-|-|-|
 
----
-
-### منابع
-1. [فریلنسرها چطور می‌توانند از توییتر بهتر استفاده کنند؟](https://www.nima.today/%d9%81%d8%b1%db%8c%d9%84%d9%86%d8%b3%d8%b1%d9%87%d8%a7-%da%86%d8%b7%d9%88%d8%b1-%d9%85%db%8c%e2%80%8c%d8%aa%d9%88%d8%a7%d9%86%d9%86%d8%af-%d8%a7%d8%b2-%d8%aa%d9%88%db%8c%db%8c%d8%aa%d8%b1-%d8%a8%d9%87%d8%aa%d8%b1-%d8%a7%d8%b3%d8%aa%d9%81%d8%a7%d8%af%d9%87-%da%a9%d9%86%d9%86%d8%af/)
 </div>
