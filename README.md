@@ -39,6 +39,7 @@
 |29|محمد حسینی|برنامه نویس اندروید نیتیو. متخصص جاوا و کاتلین.|[![توییتر][twitter]](https://mobile.twitter.com/mohosyny)|-|-|-|-|
 |30|آیدا|توسعه دهنده اندروید. آشنا به جاوا و کاتلین.|[![توییتر][twitter]](https://mobile.twitter.com/aida47095197)|-|-|-|-|
 |31|امین نجفی|طراحی رابط کاربری. تخصص در تصویر سازی، برندیگ و هویت بصری|[![توییتر][twitter]](https://twitter.com/iAminNajafi)||-|-|-|-|
+|32|آرمان جعفرنژاد|توسعه دهنده وب. دانشجوی Computer Science گرایش هوش مصنوعی. پدرِ Termustat.ir|[![توییتر][twitter]](https://twitter.com/theArmanJunior)|[![لینکدین][linkedin]](https://www.linkedin.com/in/ArmanJ)|[![گیت‌هاب][github]](https://github.com/ArmanJR)|-|[![اینستاگرام][instagram]](https://www.instagram.com/armanhimself/)|
 </div>
 
 [twitter]: assets/icons/twitter-square.svg 
