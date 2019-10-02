@@ -25,8 +25,8 @@
 |15|محبوبه خادمی|طراح گرافیک و تصویرگر. تخصص اصلی تصویرسازی و طراحی لوگو|[توییتر](https://twitter.com/mahkhademi)|-|-|-|[اینستاگرام](http://instagram.com/mahkhademi)|
 |16|یاسمین افشار|پژوهشگر شهری و متخصص برنامه‌ریزی توسعه. تخصص اصلی درزمینۀ ارزیابی توسعۀ پایدار و مشاور مسئولیت اجتماعی سازمانی|[توییتر](https://twitter.com/yasminafs)|[لینکدین](https://www.linkedin.com/in/yasminafshar/)|-|-|-|
 |17|نیما شفیع‌زاده|گیک بازاریابی محتوایی.|[توییتر](https://twitter.com/NimaShafiezadeh/)|[لینکدین](https://linkedin.com/in/NimaShafiezadeh/)|-|[وبلاگ](https://www.nima.today)|[اینستاگرام](https://instagram.com/NimaShafiezadeh/)|
-|18|صبا|مترجم زبان انگلیسی|[توییتر](https://mobile.twitter.com/sabaatmr)|-|-|-|-|
-|19|میلاد|برنامه نویس وب و موبایل. تخصص در ریکت و لاراول.|[توییتر](https://mobile.twitter.com/MiladGhadirian)|-|-|-|-|
-
+|18|صبا|مترجم زبان انگلیسی|[توییتر](https://twitter.com/sabaatmr)|-|-|-|-|
+|19|میلاد|برنامه نویس وب و موبایل. تخصص در ریکت و لاراول.|[توییتر](https://twitter.com/MiladGhadirian)|-|-|-|-|
+|20|ایمان شیرانی|موشن گرافیست و انیماتور. کارگردانی و مدل سازی.|[توییتر](https://twitter.com/imanshirani)|-|-|-|[اینستاگرام](https://www.instagram.com/myartsbox/)|
 
 </div>
