@@ -40,7 +40,7 @@
 |30|آیدا|توسعه دهنده اندروید. آشنا به جاوا و کاتلین.|[![توییتر][twitter]](https://twitter.com/aida47095197)|-|-|-|-|-|
 |31|امین نجفی|طراحی رابط کاربری. تخصص در تصویر سازی، برندیگ و هویت بصری|[![توییتر][twitter]](https://twitter.com/iAminNajafi)||-|-|-|-|-|
 |32|آرمان جعفرنژاد|توسعه دهنده وب. دانشجوی Computer Science گرایش هوش مصنوعی. پدرِ Termustat.ir|[![توییتر][twitter]](https://twitter.com/theArmanJunior)|[![لینکدین][linkedin]](https://linkedin.com/in/ArmanJ)|[![گیت‌هاب][github]](https://github.com/ArmanJR)|-|[![اینستاگرام][instagram]](https://instagram.com/armanhimself/)|-|
-|33|مریم|طراح گرافیک|[![توییتر][twitter]](https://twitter.com/ZpMaryam)|-|-|-|[![اینستاگرام][instagram]](http://instagram.com/Zp.Design)|[![تلگرام][telegram]](https://t.me/Maryamzp)|
+|33|مریم|طراح گرافیک. تخصص در طراحی جلد.|[![توییتر][twitter]](https://twitter.com/ZpMaryam)|-|-|-|[![اینستاگرام][instagram]](http://instagram.com/Zp.Design)|[![تلگرام][telegram]](https://t.me/Maryamzp)|
 </div>
 
 [twitter]: assets/icons/twitter-square.svg 
