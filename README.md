@@ -16,6 +16,7 @@
 |سپیده سعید|متخصص دیجیتال مارکتینگ|[توییتر](https://twitter.com/sepidehsaied)|[لینکدین](https://www.linkedin.com/in/sepideh-saied-26159056/)|-|-|
 |سعید مسلمی|متخصص دیجیتال مارکتینگ. تخصص اصلی در زمینۀ گوگل ادز.|[توییتر](https://twitter.com/SMoslemi)|[لینکدین](https://www.linkedin.com/in/smoslemi/)|-|-|
 |سحر سبحانی|تصویرگر. تخصص درزمینۀ طراحی کاراکتر. تجربیات بیشتر درزمینۀ دیجیتال و فضاهای استارتاپی.|[توییتر](https://twitter.com/sahar_sobhani)|-|-|-|
-|فرید کامران‌نیا|عکاس و تولیدکنندۀ ویدئو و علاقه‌مند به امور غذایی |[توییتر](https://twitter.com/FKamrannia)|-|-|-|
+|فرید کامران‌نیا|عکاس و تولیدکنندۀ ویدئو و علاقه‌مند به امور غذایی |[توییتر](https://twitter.com/FKamrannia)|-|-|-|a
+|فرنام همایونفر|طراح سایت و متخصص سئو. تخصص اصلی درزمینۀ وردپرس.|[توییتر](https://twitter.com/farnam_violin)|[لینکدین](https://www.linkedin.com/in/farnam-homayounfar-5688a040/)|-|-|
 
 </div>
