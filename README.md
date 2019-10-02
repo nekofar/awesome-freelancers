@@ -34,5 +34,6 @@
 |24|-|گرافیست، عکاس لایف استایل و طراح پستر.|[توییتر](https://mobile.twitter.com/mimjeh)|-|-|-|-|
 |25|الاهه بیگی|تصویر ساز. متخصص تصویر سازی برای وب سایت و طراحی پستر.|[توییتر](https://mobile.twitter.com/elaheh_bgi)|-|-|-|[اینستارگرام](http://instagram.com/elaheh_beigiii)|
 |26|سبحان|برنامه نویس فلاتر. متخصص فرانت اند و آشنا به برنامه نویسی بک اند.|[توییتر](https://mobile.twitter.com/sobhanm28)|-|-|-|-
+|27|امیر معماری|توسعه دهنده وب. تخصص در فرانت اند.|[توییتر](https://mobile.twitter.com/AmirMeimari)|-|-|[وبلاگ](http://amirmeimari.ir/)|-
 
 </div>
