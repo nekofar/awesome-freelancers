@@ -42,6 +42,7 @@
 | 33 | مریم زراعت‌پیشه  | طراح گرافیک. تخصص در طراحی جلد.  | - | - | - | - | [![twitter]](https://twitter.com/ZpMaryam) | [![instagram]](http://instagram.com/Zp.Design) | [![telegram]](https://t.me/Maryamzp)  |
 | 34 | اشکان شاهرخ  | معماری , مدلینگ و رندرینگ سه بعدی و گرافیک  | - | - | - | - | [![twitter]](https://twitter.com/AshkanShahrokh)  | - | - 
 | 35 | شهاب پاپون | گرافیست با تخصص در موشن گرافیک، انیمیشن و طراحی رابط کاربری | - | - | - | - | [![twitter]](https://twitter.com/shahabpn) | [![instagram]](http://instagram.com/keyweemotion) | - 
+| 36 | آرزو مهراجی | طراح صنعتی ، دستگاه های الکترونیک از لوازم خانگی تا تجهیزات پزشکی | - | [![weblog]](http://arezoomehraji.com/) | - | - | [![twitter]](https://twitter.com/arezoomehraji)  | - | - 
 
 </div>
 
