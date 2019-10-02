@@ -28,7 +28,7 @@
 |18|صبا|مترجم زبان انگلیسی|[![توییتر][twitter]](https://twitter.com/sabaatmr)|-|-|-|-|
 |19|میلاد غدیریان|برنامه نویس وب و موبایل. تخصص در ریکت و لاراول.|[![توییتر][twitter]](https://twitter.com/MiladGhadirian)|-|-|-|-|
 |20|ایمان شیرانی|موشن گرافیست و انیماتور. کارگردانی و مدل سازی.|[![توییتر][twitter]](https://twitter.com/imanshirani)|-|-|-|[![اینستاگرام][instagram]](https://www.instagram.com/myartsbox/)|
-|21|بهروز خذری|توسعه‌دهنده اندروید. متخصص کار بر روی داده‌های مکانی GIS|[![توییتر][twitter]](https://twitter.com/bkhezry)|[![گیت‌هاب][github]](https://github.com/bkhezry)|-|-|-|
+|21|بهروز خضری|توسعه‌دهنده اندروید. متخصص کار بر روی داده‌های مکانی GIS|[![توییتر][twitter]](https://twitter.com/bkhezry)|-|[![گیت‌هاب][github]](https://github.com/bkhezry)|-|-|
 |22|مینا| توسعه دهنده اندروید. زبان برنامه نویسی جاوا.|[![توییتر][twitter]](https://mobile.twitter.com/ManMinam)|-|-|-|-|
 |23|مینا|طراح وبسایت و برنامه نویسی وب. تخصص در سی ام اس هایی نظیر وردپرس و پرستا شاپ|[![توییتر][twitter]](https://mobile.twitter.com/itsmina_ir)|-|-|-|-|
 |24|-|گرافیست، عکاس لایف استایل و طراح پستر.|[![توییتر][twitter]](https://mobile.twitter.com/mimjeh)|-|-|-|-|
