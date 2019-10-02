@@ -28,7 +28,7 @@
 |18|صبا|مترجم زبان انگلیسی|[توییتر](https://twitter.com/sabaatmr)|-|-|-|-|
 |19|میلاد غدیریان|برنامه نویس وب و موبایل. تخصص در ریکت و لاراول.|[توییتر](https://twitter.com/MiladGhadirian)|-|-|-|-|
 |20|ایمان شیرانی|موشن گرافیست و انیماتور. کارگردانی و مدل سازی.|[توییتر](https://twitter.com/imanshirani)|-|-|-|[اینستاگرام](https://www.instagram.com/myartsbox/)|
-|21|بهروز خذری|توسعه‌دهنده اندروید. متخصص کار بر روی داده‌های مکانی GIS|[توییتر](https://twitter.com/bkhezry)|[گیت‌هاب](https://github.com/bkhezry)|-|-|-|
+|21|بهروز خذری|توسعه‌دهنده اندروید. متخصص کار بر روی داده‌های مکانی GIS|[توییتر](https://twitter.com/bkhezry)|-|[گیت‌هاب](https://github.com/bkhezry)|-|-|
 |22|مینا| توسعه دهنده اندروید. زبان برنامه نویسی جاوا.|[توییتر](https://mobile.twitter.com/ManMinam)|-|-|-|-|
 |23|مینا|طراح وبسایت و برنامه نویسی وب. تخصص در سی ام اس هایی نظیر وردپرس و پرستا شاپ|[توییتر](https://mobile.twitter.com/itsmina_ir)|-|-|-|-|
 |24|-|گرافیست، عکاس لایف استایل و طراح پستر.|[توییتر](https://mobile.twitter.com/mimjeh)|-|-|-|-|
@@ -39,4 +39,5 @@
 |29|محمد حسینی|برنامه نویس اندروید نیتیو. متخصص جاوا و کاتلین.|[توییتر](https://mobile.twitter.com/mohosyny)|-|-|-|-|
 |30|آیدا|توسعه دهنده اندروید. آشنا به جاوا و کاتلین.|[توییتر](https://mobile.twitter.com/aida47095197)|-|-|-|-|
 |31|امین نجفی|طراحی رابط کاربری. تخصص در تصویر سازی، برندیگ و هویت بصری|[توییتر](https://twitter.com/iAminNajafi)||-|-|-|-|
+|32|آرمان جعفرنژاد|توسعه دهنده وب. دانشجوی Computer Science گرایش هوش مصنوعی. پدرِ Termustat.ir|[توییتر](https://twitter.com/theArmanJunior)|[لینکدین](https://www.linkedin.com/in/ArmanJ)|[گیت‌هاب](https://github.com/ArmanJR)|-|[اینستاگرام](https://www.instagram.com/armanhimself/)|
 </div>
