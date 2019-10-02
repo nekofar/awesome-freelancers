@@ -25,7 +25,7 @@
 |15|محبوبه خادمی|طراح گرافیک و تصویرگر. تخصص اصلی تصویرسازی و طراحی لوگو|[![توییتر][twitter]](https://twitter.com/mahkhademi)|-|-|-|[![اینستاگرام][instagram]](http://instagram.com/mahkhademi)|
 |16|یاسمین افشار|پژوهشگر شهری و متخصص برنامه‌ریزی توسعه. تخصص اصلی درزمینۀ ارزیابی توسعۀ پایدار و مشاور مسئولیت اجتماعی سازمانی|[![توییتر][twitter]](https://twitter.com/yasminafs)|[![لینکدین][linkedin]](https://www.linkedin.com/in/yasminafshar/)|-|-|-|
 |17|نیما شفیع‌زاده|گیک بازاریابی محتوایی.|[![توییتر][twitter]](https://twitter.com/NimaShafiezadeh/)|[![لینکدین][linkedin]](https://linkedin.com/in/NimaShafiezadeh/)|-|[![وبلاگ][blog]](https://www.nima.today)|[![اینستاگرام][instagram]](https://instagram.com/NimaShafiezadeh/)|
-|18|صبا|مترجم زبان انگلیسی|[![توییتر][twitter]](https://twitter.com/sabaatmr)|-|-|-|-|
+|18|صبا|مترجم زبان انگلیسی و آشنا به  ادورتایزینگ و کانتنت مارکتینگ.|[![توییتر][twitter]](https://twitter.com/sabaatmr)|-|-|-|-|
 |19|میلاد قدیریان|برنامه نویس وب و موبایل. تخصص در ریکت و لاراول و جاوا اندروید.|[![توییتر][twitter]](https://twitter.com/MiladGhadirian)|-|-|-|-|
 |20|ایمان شیرانی|موشن گرافیست و انیماتور. کارگردانی و مدل سازی.|[![توییتر][twitter]](https://twitter.com/imanshirani)|-|-|-|[![اینستاگرام][instagram]](https://www.instagram.com/myartsbox/)|
 |21|بهروز خضری|توسعه‌دهنده اندروید. متخصص کار بر روی داده‌های مکانی GIS|[![توییتر][twitter]](https://twitter.com/bkhezry)|-|[![گیت‌هاب][github]](https://github.com/bkhezry)|-|-|
