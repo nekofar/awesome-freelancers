@@ -35,7 +35,7 @@
 |25|الاهه بیگی|تصویر ساز. متخصص تصویر سازی برای وب سایت و طراحی پستر.|[![توییتر][twitter]](https://twitter.com/elaheh_bgi)|-|-|-|[![اینستاگرام][instagram]](http://instagram.com/elaheh_beigiii)|-|
 |26|سبحان مرادی|برنامه نویس فلاتر. متخصص فرانت اند و آشنا به برنامه نویسی بک اند.|[![توییتر][twitter]](https://twitter.com/sobhanm28)|-|-|-|[![اینستاگرام][instagram]](https://instagram.com/sobhanm28)|-|
 |27|امیر میمری|توسعه دهنده وب. تخصص در فرانت اند.|[![توییتر][twitter]](https://twitter.com/AmirMeimari)|[![لینکدین][linkedin]](https://linkedin.com/in/amirmeimari)|-|[![وبلاگ][blog]](http://amirmeimari.ir/)|[![اینستاگرام][instagram]](https://instagram.com/amir_meimari)|-|
-|28|علی میرزایی|برنامه نویس سیستم. متخصص امبدد، سی پلاس و سی شارپ. آشنا به پایتون|[![توییتر][twitter]](https://twitter.com/Mirzaee__Ali)|-|-|-|-|-|
+|28|علی میرزایی|برنامه نویس سیستم. متخصص امبدد، سی پلاس و سی شارپ. آشنا به پایتون|[![توییتر][twitter]](https://twitter.com/Mirzaee__Ali)|[![لینکدین][linkedin]](https://linkedin.com/in/ali-mirzaee-a88530b0/)|-|-|-|-|
 |29|محمد حسینی|برنامه نویس اندروید نیتیو. متخصص جاوا و کاتلین.|[![توییتر][twitter]](https://twitter.com/mohosyny)|-|-|-|-|-|
 |30|آیدا|توسعه دهنده اندروید. آشنا به جاوا و کاتلین.|[![توییتر][twitter]](https://twitter.com/aida47095197)|-|-|-|-|-|
 |31|امین نجفی|طراحی رابط کاربری. تخصص در تصویر سازی، برندیگ و هویت بصری|[![توییتر][twitter]](https://twitter.com/iAminNajafi)||-|-|-|-|-|
