@@ -36,7 +36,7 @@
 |26|سبحان مرادی|برنامه نویس فلاتر. متخصص فرانت اند و آشنا به برنامه نویسی بک اند.|[![twitter]](https://twitter.com/sobhanm28)|-|-|-|[![instagram]](https://instagram.com/sobhanm28)|-|
 |27|امیر میمری|توسعه دهنده وب. تخصص در فرانت اند.|[![twitter]](https://twitter.com/AmirMeimari)|[![linkedin]](https://linkedin.com/in/amirmeimari)|-|[![blog]](http://amirmeimari.ir/)|[![instagram]](https://instagram.com/amir_meimari)|-|
 |28|علی میرزایی|برنامه نویس سیستم. متخصص امبدد، سی پلاس و سی شارپ. آشنا به پایتون|[![twitter]](https://twitter.com/Mirzaee__Ali)|[![linkedin]](https://linkedin.com/in/ali-mirzaee-a88530b0/)|-|-|-|-|
-|29|محمد حسینی|برنامه نویس اندروید نیتیو. متخصص جاوا و کاتلین.|[![twitter]](https://twitter.com/mohosyny)|[![linkedin]](https://linkedin.com/in/mohosyny)|-|-|-|[![telegram]](https://t.me/mohosyny)|
+|29|محمد حسینی|برنامه نویس اندروید نیتیو. متخصص جاوا و کاتلین.|[![twitter]](https://twitter.com/mohosyny)|[![linkedin]](https://linkedin.com/in/mohosyny)|-|[![blog]](https://virgool.io/@mohosyny)|-|[![telegram]](https://t.me/mohosyny)|
 |30|آیدا|توسعه دهنده اندروید. آشنا به جاوا و کاتلین.|[![twitter]](https://twitter.com/aida47095197)|-|-|-|-|-|
 |31|امین نجفی|طراحی رابط کاربری. تخصص در تصویر سازی، برندیگ و هویت بصری|[![twitter]](https://twitter.com/iAminNajafi)||-|-|-|-|-|
 |32|آرمان جعفرنژاد|توسعه دهنده وب. دانشجوی Computer Science گرایش هوش مصنوعی. پدرِ Termustat.ir|[![twitter]](https://twitter.com/theArmanJunior)|[![linkedin]](https://linkedin.com/in/ArmanJ)|[![github]](https://github.com/ArmanJR)|-|[![instagram]](https://instagram.com/armanhimself/)|-|
