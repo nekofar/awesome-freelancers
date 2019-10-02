@@ -18,8 +18,9 @@
 |سحر سبحانی|تصویرگر. تخصص درزمینۀ طراحی کاراکتر. تجربیات بیشتر درزمینۀ دیجیتال و فضاهای استارتاپی.|[توییتر](https://twitter.com/sahar_sobhani)|-|-|-|
 |فرید کامران‌نیا|عکاس و تولیدکنندۀ ویدئو و علاقه‌مند به امور غذایی |[توییتر](https://twitter.com/FKamrannia)|-|-|-|a
 |فرنام همایونفر|طراح سایت و متخصص سئو. تخصص اصلی درزمینۀ وردپرس.|[توییتر](https://twitter.com/farnam_violin)|[لینکدین](https://www.linkedin.com/in/farnam-homayounfar-5688a040/)|-|-|
-فرنوش جمالی|طراح UI/UX و مدرس دانشگاه. تخصص اصلی درزمینۀ طراحی تجربه و رابط کاربری|[توییتر](https://twitter.com/FarnooshJml)|[لینکدین](https://www.linkedin.com/in/farnooshjml)|-|[وبلاگ](https://virgool.io/@farnoosh)|
+فرنوش جمالی|طراح UI/UX و مدرس دانشگاه. تخصص اصلی درزمینۀ طراحی تجربه و رابط کاربری|[توییتر](https://twitter.com/FarnooshJml)|[لنکدین](https://www.linkedin.com/in/farnooshjml)|-|[وبلاگ](https://virgool.io/@farnoosh)|
 |مهدی رضایی|گرافیست و طراح رابط و تجربۀ کاربری. تخصص اصلی درزمینۀ طراحی لوگو و طراحی رابط کاربری|[توییتر](https://twitter.com/MehdiRezaei6?s=09)|[لینکدین](https://www.linkedin.com/in/mehdirezaeigraphist/)|-|-|
+|مهدی زارع سریزدی|کارشناس محتوا و نویسنده‌. تخصص اصلی درزمینۀ مدیریت تیم‌های محتوایی و نگارش محتوا|[توییتر](https://twitter.com/mehdizare89)|[لینکدین](https://www.linkedin.com/in/1zare/)|-|-|
 
 
 </div>
