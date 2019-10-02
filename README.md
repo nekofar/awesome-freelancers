@@ -28,5 +28,6 @@
 |18|صبا|مترجم زبان انگلیسی|[توییتر](https://twitter.com/sabaatmr)|-|-|-|-|
 |19|میلاد غدیریان|برنامه نویس وب و موبایل. تخصص در ریکت و لاراول.|[توییتر](https://twitter.com/MiladGhadirian)|-|-|-|-|
 |20|ایمان شیرانی|موشن گرافیست و انیماتور. کارگردانی و مدل سازی.|[توییتر](https://twitter.com/imanshirani)|-|-|-|[اینستاگرام](https://www.instagram.com/myartsbox/)|
+|21|بهروز خذری|توسعه‌دهنده اندروید. متخصص کار بر روی داده‌های مکانی GIS|[توییتر](https://twitter.com/bkhezry)|[گیت‌هاب](https://github.com/bkhezry)|-|-|-|
 
 </div>
