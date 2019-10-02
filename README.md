@@ -31,7 +31,7 @@
 |21|بهروز خضری|توسعه‌دهنده اندروید. متخصص کار بر روی داده‌های مکانی GIS|[![توییتر][twitter]](https://twitter.com/bkhezry)|-|[![گیت‌هاب][github]](https://github.com/bkhezry)|-|-|
 |22|مینا| توسعه دهنده اندروید. زبان برنامه نویسی جاوا.|[![توییتر][twitter]](https://mobile.twitter.com/ManMinam)|-|-|-|-|
 |23|مینا|طراح وبسایت و برنامه نویسی وب. تخصص در سی ام اس هایی نظیر وردپرس و پرستا شاپ|[![توییتر][twitter]](https://mobile.twitter.com/itsmina_ir)|-|-|-|-|
-|24|-|گرافیست، عکاس لایف استایل و طراح پستر.|[![توییتر][twitter]](https://mobile.twitter.com/mimjeh)|-|-|-|-|
+|24|مه‌رو جعفری|گرافیست، عکاس لایف استایل و طراح پستر.|[![توییتر][twitter]](https://mobile.twitter.com/mimjeh)|-|-|-|[![اینستاگرام][instagram]](https://www.instagram.com/mahroo.jafari)|
 |25|الاهه بیگی|تصویر ساز. متخصص تصویر سازی برای وب سایت و طراحی پستر.|[![توییتر][twitter]](https://mobile.twitter.com/elaheh_bgi)|-|-|-|[![اینستاگرام][instagram]](http://instagram.com/elaheh_beigiii)|
 |26|سبحان مرادی|برنامه نویس فلاتر. متخصص فرانت اند و آشنا به برنامه نویسی بک اند.|[![توییتر][twitter]](https://mobile.twitter.com/sobhanm28)|-|-|-|[![اینستاگرام][instagram]](https://www.instagram.com/sobhanm28)
 |27|امیر معماری|توسعه دهنده وب. تخصص در فرانت اند.|[![توییتر][twitter]](https://mobile.twitter.com/AmirMeimari)|-|-|[![وبلاگ][blog]](http://amirmeimari.ir/)|-
