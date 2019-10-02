@@ -24,7 +24,7 @@
 |14|مسعود زارعی|طراح گرافیک و متخصص در طراحی لوگو و برندینگ| - | - | - | - |[![instagram]](https://instagram.com/lemi.design/)| - | - |
 |15|محبوبه خادمی|طراح گرافیک و تصویرگر. تخصص اصلی تصویرسازی و طراحی لوگو|[![twitter]](https://twitter.com/mahkhademi)| - | - | - |[![instagram]](http://instagram.com/mahkhademi)| - | - |
 |16|یاسمین افشار|پژوهشگر شهری و متخصص برنامه‌ریزی توسعه. تخصص اصلی درزمینۀ ارزیابی توسعۀ پایدار و مشاور مسئولیت اجتماعی سازمانی|[![twitter]](https://twitter.com/yasminafs)|[![linkedin]](https://linkedin.com/in/yasminafshar/)| - | - | - | - | - |
-|17|نیما شفیع‌زاده|گیک بازاریابی محتوایی.|[![twitter]](https://twitter.com/NimaShafiezadeh/)|[![linkedin]](https://linkedin.com/in/NimaShafiezadeh/)| - |[![blog]](https://www.nima.today)|[![instagram]](https://instagram.com/NimaShafiezadeh/)| - | - |
+|17|نیما شفیع‌زاده|بلاگر و بازاریاب محتوایی.|[![twitter]](https://twitter.com/NimaShafiezadeh/)|[![linkedin]](https://linkedin.com/in/NimaShafiezadeh/)| - |[![blog]](https://www.nima.today)|[![instagram]](https://instagram.com/NimaShafiezadeh/)| [![telegram]](https://t.me/nimashafiezadeh) | - |
 |18|صبا|مترجم زبان انگلیسی و آشنا به  ادورتایزینگ و کانتنت مارکتینگ.|[![twitter]](https://twitter.com/sabaatmr)| - | - | - | - | - | - |
 |19|میلاد قدیریان|برنامه نویس وب و موبایل. تخصص در ریکت و لاراول و جاوا اندروید.|[![twitter]](https://twitter.com/MiladGhadirian)| - | - | - | - | - | - |
 |20|ایمان شیرانی|موشن گرافیست و انیماتور. کارگردانی و مدل سازی.|[![twitter]](https://twitter.com/imanshirani)| - | - | - |[![instagram]](https://instagram.com/myartsbox/)| - | - |
