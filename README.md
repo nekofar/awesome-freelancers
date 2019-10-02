@@ -41,6 +41,7 @@
 |31|امین نجفی|طراحی رابط کاربری. تخصص در تصویر سازی، برندیگ و هویت بصری|[![twitter]](https://twitter.com/iAminNajafi)||-|-|-|-|-|
 |32|آرمان جعفرنژاد|توسعه دهنده وب. دانشجوی Computer Science گرایش هوش مصنوعی. پدرِ Termustat.ir|[![twitter]](https://twitter.com/theArmanJunior)|[![linkedin]](https://linkedin.com/in/ArmanJ)|[![github]](https://github.com/ArmanJR)|-|[![instagram]](https://instagram.com/armanhimself/)|-|
 |33|مریم زراعت‌پیشه|طراح گرافیک. تخصص در طراحی جلد.|[![twitter]](https://twitter.com/ZpMaryam)|-|-|-|[![instagram]](http://instagram.com/Zp.Design)|[![telegram]](https://t.me/Maryamzp)|
+|34|اشکان شاهرخ|معماری , مدلینگ و رندرینگ سه بعدی و گرافیک|[![twitter]](https://twitter.com/AshkanShahrokh)|-|-|-|-|-|
 </div>
 
 [twitter]: assets/icons/twitter-square.svg "توییتر"
