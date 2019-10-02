@@ -18,5 +18,6 @@
 |سحر سبحانی|تصویرگر. تخصص درزمینۀ طراحی کاراکتر. تجربیات بیشتر درزمینۀ دیجیتال و فضاهای استارتاپی.|[توییتر](https://twitter.com/sahar_sobhani)|-|-|-|
 |فرید کامران‌نیا|عکاس و تولیدکنندۀ ویدئو و علاقه‌مند به امور غذایی |[توییتر](https://twitter.com/FKamrannia)|-|-|-|a
 |فرنام همایونفر|طراح سایت و متخصص سئو. تخصص اصلی درزمینۀ وردپرس.|[توییتر](https://twitter.com/farnam_violin)|[لینکدین](https://www.linkedin.com/in/farnam-homayounfar-5688a040/)|-|-|
+فرنوش جمالی|طراح UI/UX و مدرس دانشگاه. تخصص اصلی درزمینۀ طراحی تجربه و رابط کاربری|[توییتر](https://twitter.com/FarnooshJml)|[لنکدین](https://www.linkedin.com/in/farnooshjml)|-|[وبلاگ](https://virgool.io/@farnoosh)|
 
 </div>
