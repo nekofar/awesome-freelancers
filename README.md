@@ -33,7 +33,7 @@
 | 24 | مه‌رو جعفری  | گرافیست، عکاس لایف استایل و طراح پستر.| - | - | - | - | [![twitter]](https://twitter.com/mimjeh) | [![instagram]](https://instagram.com/mahroo.jafari) | - 
 | 25 | الاهه بیگی | تصویر ساز. متخصص تصویر سازی برای وب سایت و طراحی پستر. | - | - | - | - | [![twitter]](https://twitter.com/elaheh_bgi) | [![instagram]](http://instagram.com/elaheh_beigiii) | - 
 | 26 | سبحان مرادی  | برنامه نویس فلاتر. متخصص فرانت اند و آشنا به برنامه نویسی بک اند.  | - | - | - | - | [![twitter]](https://twitter.com/sobhanm28)| [![instagram]](https://instagram.com/sobhanm28) | - 
-| 27 | امیر میمری | توسعه دهنده وب. تخصص در فرانت اند. | - | [![weblog]](http://amirmeimari.ir/)  | [![linkedin]](https://linkedin.com/in/amirmeimari)  | - | [![twitter]](https://twitter.com/AmirMeimari) | [![instagram]](https://instagram.com/amir_meimari)  | - 
+| 27 | امیر میمری | توسعه دهنده وب. تخصص در فرانت اند. | [![email]](mailto:amirmeimari@gmail.com) | [![weblog]](http://amirmeimari.ir/)  | [![linkedin]](https://linkedin.com/in/amirmeimari)  | - | [![twitter]](https://twitter.com/AmirMeimari) | [![instagram]](https://instagram.com/amir_meimari)  | - 
 | 28 | علی میرزایی  | برنامه نویس سیستم. متخصص امبدد، سی پلاس و سی شارپ. آشنا به پایتون  | - | - | [![linkedin]](https://linkedin.com/in/ali-mirzaee-a88530b0/) | - | [![twitter]](https://twitter.com/Mirzaee__Ali)  | - | - 
 | 29 | محمد حسینی | برنامه نویس اندروید نیتیو. متخصص جاوا و کاتلین.  | - | [![weblog]](https://virgool.io/@mohosyny)  | [![linkedin]](https://linkedin.com/in/mohosyny) | - | [![twitter]](https://twitter.com/mohosyny) | - | [![telegram]](https://t.me/mohosyny)  |
 | 30 | آیدا  | توسعه دهنده اندروید. آشنا به جاوا و کاتلین. | - | - | - | - | [![twitter]](https://twitter.com/aida47095197)  | - | - 
