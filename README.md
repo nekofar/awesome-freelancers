@@ -33,8 +33,8 @@
 |23|مینا|طراح وبسایت و برنامه نویسی وب. تخصص در سی ام اس هایی نظیر وردپرس و پرستا شاپ|[![توییتر][twitter]](https://mobile.twitter.com/itsmina_ir)|-|-|-|-|-|
 |24|مه‌رو جعفری|گرافیست، عکاس لایف استایل و طراح پستر.|[![توییتر][twitter]](https://mobile.twitter.com/mimjeh)|-|-|-|[![اینستاگرام][instagram]](https://www.instagram.com/mahroo.jafari)|-|
 |25|الاهه بیگی|تصویر ساز. متخصص تصویر سازی برای وب سایت و طراحی پستر.|[![توییتر][twitter]](https://mobile.twitter.com/elaheh_bgi)|-|-|-|[![اینستاگرام][instagram]](http://instagram.com/elaheh_beigiii)|-|
-|26|سبحان مرادی|برنامه نویس فلاتر. متخصص فرانت اند و آشنا به برنامه نویسی بک اند.|[![توییتر][twitter]](https://mobile.twitter.com/sobhanm28)|-|-|-|[![اینستاگرام][instagram]](https://www.instagram.com/sobhanm28)-|
-|27|امیر معماری|توسعه دهنده وب. تخصص در فرانت اند.|[![توییتر][twitter]](https://mobile.twitter.com/AmirMeimari)|-|-|[![وبلاگ][blog]](http://amirmeimari.ir/)|--|
+|26|سبحان مرادی|برنامه نویس فلاتر. متخصص فرانت اند و آشنا به برنامه نویسی بک اند.|[![توییتر][twitter]](https://mobile.twitter.com/sobhanm28)|-|-|-|[![اینستاگرام][instagram]](https://www.instagram.com/sobhanm28)|-|
+|27|امیر معماری|توسعه دهنده وب. تخصص در فرانت اند.|[![توییتر][twitter]](https://mobile.twitter.com/AmirMeimari)|-|-|[![وبلاگ][blog]](http://amirmeimari.ir/)|-|-|
 |28|علی میرزایی|برنامه نویس سیستم. متخصص امبدد، سی پلاس و سی شارپ. آشنا به پایتون|[![توییتر][twitter]](https://mobile.twitter.com/Mirzaee__Ali)|-|-|-|-|-|
 |29|محمد حسینی|برنامه نویس اندروید نیتیو. متخصص جاوا و کاتلین.|[![توییتر][twitter]](https://mobile.twitter.com/mohosyny)|-|-|-|-|-|
 |30|آیدا|توسعه دهنده اندروید. آشنا به جاوا و کاتلین.|[![توییتر][twitter]](https://mobile.twitter.com/aida47095197)|-|-|-|-|-|
