@@ -43,7 +43,7 @@
 | 34 | اشکان شاهرخ  | معماری , مدلینگ و رندرینگ سه بعدی و گرافیک  | - | - | - | - | [![twitter]](https://twitter.com/AshkanShahrokh)  | - | - 
 | 35 | شهاب پاپون | گرافیست با تخصص در موشن گرافیک، انیمیشن و طراحی رابط کاربری | - | - | - | - | [![twitter]](https://twitter.com/shahabpn) | [![instagram]](http://instagram.com/keyweemotion) | - 
 | 36 | آرزو مهراجی | طراح صنعتی ، دستگاه های الکترونیک از لوازم خانگی تا تجهیزات پزشکی | - | [![weblog]](http://arezoomehraji.com/) | - | - | [![twitter]](https://twitter.com/arezoomehraji)  | - | - 
-
+| 37 | محمدرضا حسنی | عکاسی، ادیت عکس، فیلمبرداری، ادیت فیلم، صدابرداری، ادیت صدا، طراحی گرافیک وب و چاپ | - | - | - | - | [![twitter]](https://twitter.com/l2eza)  | - | - 
 </div>
 
 [email]: assets/icons/envelope-square.svg "ایمیل"
