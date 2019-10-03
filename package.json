@@ -1,0 +1,15 @@
+{
+  "name": "awesome-freelancers",
+  "version": "1.0.0",
+  "description": "This repository is a place to collect a list of Iranian freelancers with expertise in different areas.",
+  "main": "scripts/index.js",
+  "repository": "git@github.com:nekofar/awesome-freelancers.git",
+  "author": "Milad Nekofar <milad@nekofar.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json2md": "^1.6.5"
+  },
+  "scripts": {
+    "update": "node scripts > README.md"
+  }
+}

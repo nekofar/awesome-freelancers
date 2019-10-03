@@ -1,0 +1,45 @@
+[
+  {
+    "h1": " فریلنسر های ایرانی"
+  },
+  {
+    "blockquote": "این مخزن مکانی برای جمع آوری لیستی از فریلنسر های ایرانی با تخصص در حوزه های مختلف می باشد."
+  },
+  {
+    "table": {
+      "headers": {
+        "name": "نام",
+        "about": "درباره",
+        "email": "![Email]",
+        "weblog": "![Weblog]",
+        "linkedin": "![LinkedIn]",
+        "github": "![GitHub]",
+        "twitter": "![Twitter]",
+        "instagram": "![Instagram]",
+        "telegram": "![Telegram]"
+      },
+      "rows": []
+    }
+  },
+  {
+    "p": "[Email]: assets/icons/envelope-square.svg \"ایمیل\""
+  },
+  {
+    "p": "[Weblog]: assets/icons/globe-africa.svg \"وبلاگ\""
+  },
+  {
+    "p": "[LinkedIn]: assets/icons/linkedin.svg \"لینکدین\""
+  },
+  {
+    "p": "[GitHub]: assets/icons/github-square.svg \"گیت‌هاب\""
+  },
+  {
+    "p": "[Twitter]: assets/icons/twitter-square.svg \"توییتر\""
+  },
+  {
+    "p": "[Instagram]: assets/icons/instagram.svg \"اینستاگرام\""
+  },
+  {
+    "p": "[Telegram]: assets/icons/telegram.svg \"تلگرام\""
+  }
+]
