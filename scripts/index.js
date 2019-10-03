@@ -13,18 +13,18 @@ const sourceJson = () => {
             '#': row.padStart(2, '0'),
             [head.name]: people[i].name ? `${people[i].name}`.replace(" ", "&nbsp;") : "![Unknown]",
             [head.about]: people[i].about ? `${people[i].about}` : "![Unknown]",
-            [head.email]: people[i].email ? `[![Email]](mailto:${people[i].email})` : "![Unknown]",
-            [head.weblog]: people[i].weblog ? `[![Weblog]](${people[i].weblog})` : "![Unknown]",
-            [head.linkedin]: people[i].linkedin ? `[![LinkedIn]](https://linkedin.com/in/${people[i].linkedin})` : "![Unknown]",
-            [head.github]: people[i].github ? `[![GitHub]](https://github.com/${people[i].github})` : "![Unknown]",
-            [head.twitter]: people[i].twitter ? `[![Twitter]](https://twitter.com/${people[i].twitter})` : "![Unknown]",
-            [head.instagram]: people[i].instagram ? `[![Instagram]](https://instagram.com/${people[i].instagram})` : "![Unknown]",
-            [head.telegram]: people[i].telegram ? `[![Telegram]](https://t.me/${people[i].telegram})` : "![Unknown]"
+            "Contact": (people[i].email ? `[![Email]](mailto:${people[i].email})` : "") +
+                (people[i].weblog ? `[![Weblog]](${people[i].weblog})` : "") +
+                (people[i].linkedin ? `[![LinkedIn]](https://linkedin.com/in/${people[i].linkedin})` : "") +
+                (people[i].github ? `[![GitHub]](https://github.com/${people[i].github})` : "") +
+                (people[i].twitter ? `[![Twitter]](https://twitter.com/${people[i].twitter})` : "") +
+                (people[i].instagram ? `[![Instagram]](https://instagram.com/${people[i].instagram})` : "") +
+                (people[i].telegram ? `[![Telegram]](https://t.me/${people[i].telegram})` : "")
         }
     }
 
     source[tableIndex].table.rows = rows;
-    source[tableIndex].table.headers = ['#', ...Object.values(head)];
+    source[tableIndex].table.headers = ['#', head.name, head.about, "Contact"];
 
     return source;
 };
