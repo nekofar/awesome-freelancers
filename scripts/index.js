@@ -8,7 +8,9 @@ const sourceJson = () => {
     let rows = [];
 
     for (let i = 0; i < people.length; i++) {
+        let row = i + 1 + '';
         rows[i] = {
+            '#': row.padStart(2, '0'),
             [head.name]: people[i].name ? `**${people[i].name}**`.replace(" ", "&nbsp;") : "![Unknown]",
             [head.about]: people[i].about ? `${people[i].about}` : "![Unknown]",
             [head.email]: people[i].email ? `[![Email]](mailto:${people[i].email})` : "![Unknown]",
@@ -22,7 +24,7 @@ const sourceJson = () => {
     }
 
     source[tableIndex].table.rows = rows;
-    source[tableIndex].table.headers = Object.values(head);
+    source[tableIndex].table.headers = ['#', ...Object.values(head)];
 
     return source;
 };
