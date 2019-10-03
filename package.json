@@ -10,6 +10,6 @@
     "json2md": "^1.6.5"
   },
   "scripts": {
-    "update": "node scripts > README.md"
+    "update": "node . > README.md"
   }
 }

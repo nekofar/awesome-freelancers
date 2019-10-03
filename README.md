@@ -43,7 +43,8 @@
 35 | شهاب&nbsp;پاپون | گرافیست با تخصص در موشن گرافیک، انیمیشن و طراحی رابط کاربری | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/shahabpn) | [![Instagram]](https://instagram.com/keyweemotion) | ![Unknown]
 36 | آرزو&nbsp;مهراجی | طراح صنعتی ، دستگاه های الکترونیک از لوازم خانگی تا تجهیزات پزشکی | [![Email]](mailto:arezoomehraji@gmail.com) | [![Weblog]](http://arezoomehraji.com) | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/arezoomehraji) | ![Unknown] | ![Unknown]
 37 | محمدرضا&nbsp;حسنی | عکاسی، ادیت عکس، فیلمبرداری، ادیت فیلم، صدابرداری، ادیت صدا، طراحی گرافیک وب و چاپ | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/l2eza) | ![Unknown] | ![Unknown]
-38 | مسعید&nbsp;مفرح | معمار و مشاور تبلیغات و بازاریابی. | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/saiedmofarrah) | [![Instagram]](https://instagram.com/saiedmofarrah) | [![Telegram]](https://t.me/saiedmofarrah) | 
+38 | مسعید&nbsp;مفرح | معمار و مشاور تبلیغات و بازاریابی. | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/saiedmofarrah) | [![Instagram]](https://instagram.com/saiedmofarrah) | [![Telegram]](https://t.me/saiedmofarrah)
+39 | مهسا | مدیریت تبلیغات گوگل. | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/mahsasam88) | ![Unknown] | ![Unknown] | 
 
 
 [Email]: assets/icons/envelope-square.svg 'ایمیل'
