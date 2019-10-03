@@ -48,7 +48,7 @@
 [Email]: assets/icons/envelope-square.svg 'ایمیل'
 
 
-[Weblog]: assets/icons/external-link-square-alt.svg 'وبلاگ'
+[Weblog]: assets/icons/rss-square-alt.svg 'وبلاگ'
 
 
 [LinkedIn]: assets/icons/linkedin.svg 'لینکدین'
