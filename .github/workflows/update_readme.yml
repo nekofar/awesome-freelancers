@@ -1,7 +1,7 @@
 name: Update README.md
 
 on:
-  pull_request:
+  push:
     branches:
       - master
 
