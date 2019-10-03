@@ -41,9 +41,9 @@
 33 | مریم&nbsp;زراعت‌پیشه | طراح گرافیک. تخصص در طراحی جلد. | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/ZpMaryam) | [![Instagram]](https://instagram.com/Zp.Design) | [![Telegram]](https://t.me/Maryamzp)
 34 | اشکان&nbsp;شاهرخ | معماری , مدلینگ و رندرینگ سه بعدی و گرافیک | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/AshkanShahrokh) | ![Unknown] | ![Unknown]
 35 | شهاب&nbsp;پاپون | گرافیست با تخصص در موشن گرافیک، انیمیشن و طراحی رابط کاربری | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/shahabpn) | [![Instagram]](https://instagram.com/keyweemotion) | ![Unknown]
-36 | آرزو&nbsp;مهراجی | طراح صنعتی ، دستگاه های الکترونیک از لوازم خانگی تا تجهیزات پزشکی | ![Unknown] | [![Weblog]](http://arezoomehraji.com) | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/arezoomehraji) | ![Unknown] | ![Unknown]
+36 | آرزو&nbsp;مهراجی | طراح صنعتی ، دستگاه های الکترونیک از لوازم خانگی تا تجهیزات پزشکی | [![Email]](mailto:arezoomehraji@gmail.com) | [![Weblog]](http://arezoomehraji.com) | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/arezoomehraji) | ![Unknown] | ![Unknown]
 37 | محمدرضا&nbsp;حسنی | عکاسی، ادیت عکس، فیلمبرداری، ادیت فیلم، صدابرداری، ادیت صدا، طراحی گرافیک وب و چاپ | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/l2eza) | ![Unknown] | ![Unknown]
-38 | مسعید&nbsp;مفرج | معمار و مشاور تبلیغات و بازاریابی. | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/saiedmofarrah) | [![Instagram]](https://instagram.com/saiedmofarrah) | [![Telegram]](https://t.me/saiedmofarrah) | 
+38 | مسعید&nbsp;مفرح | معمار و مشاور تبلیغات و بازاریابی. | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/saiedmofarrah) | [![Instagram]](https://instagram.com/saiedmofarrah) | [![Telegram]](https://t.me/saiedmofarrah) | 
 
 
 [Email]: assets/icons/envelope-square.svg 'ایمیل'
