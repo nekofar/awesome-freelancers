@@ -17,10 +17,10 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
-      - name: npm install yarn
+      - name: Install yan using npm
         run: |
           npm install yarn -g
-      - name: yarn install and update readme
+      - name: Install packages and run update
         run: |
           yarn install
           yarn run update
