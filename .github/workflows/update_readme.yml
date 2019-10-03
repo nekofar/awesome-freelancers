@@ -1,9 +1,6 @@
 name: Update README.md
 
-on:
-  push:
-    branches:
-      - master
+on: [push]
 
 jobs:
   build:
