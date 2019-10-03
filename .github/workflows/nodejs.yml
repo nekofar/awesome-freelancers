@@ -1,8 +1,8 @@
 name: Node CI
 
-on: 
+on:
   pull_request:
-    branches: 
+    branches:
       - master
 
 jobs:
@@ -23,7 +23,6 @@ jobs:
     - name: npm install, build, and test
       run: |
         npm install
-        npm run build --if-present
-        npm test
+        npm run update
       env:
         CI: true
