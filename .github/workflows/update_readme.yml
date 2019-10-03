@@ -15,24 +15,21 @@ jobs:
         node-version: [12.x]
 
     steps:
-    - uses: actions/checkout@v1
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
-      with:
-        node-version: ${{ matrix.node-version }}
-    - name: npm install yarn
-      run: |
-        npm install yarn -g
-    - name: yarn install and update readme
-      run: |
-        yarn install
-        yarn run update
-      env:
-        CI: true
-    - name: Commit changed files
-      uses: stefanzweifel/git-auto-commit-action@v2.1.0
-      with:
-        commit_message: Apply readme changes
-        branch: ${{ github.head_ref }}
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v1
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: npm install yarn
+        run: |
+          npm install yarn -g
+      - name: yarn install and update readme
+        run: |
+          yarn install
+          yarn run update
+        env:
+          CI: true
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v1.4.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
