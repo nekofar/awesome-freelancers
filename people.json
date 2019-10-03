@@ -460,5 +460,16 @@
     "twitter": "aminalipour_dev",
     "instagram": "",
     "telegram": ""
-  }
+  },
+  {
+    "name": "Milad Moafi",
+    "about": "Front-End Developer React.js, React-Native, Redux, MobX, PWA, SSR, Test",
+    "email": "milixov@gmail.com",
+    "weblog": "",
+    "linkedin": "miladmoafi",
+    "github": "moafim",
+    "twitter": "milixof",
+    "instagram": "moafimilad",
+    "telegram": "miladmoafi"
+  },
 ]
