@@ -9,7 +9,7 @@ const sourceJson = () => {
 
     for (let i = 0; i < people.length; i++) {
         rows[i] = {
-            [head.name]: people[i].name ? `${people[i].name}` : "![Unknown]",
+            [head.name]: people[i].name ? `**${people[i].name}**` : "![Unknown]",
             [head.about]: people[i].about ? `${people[i].about}` : "![Unknown]",
             [head.email]: people[i].email ? `[![Email]](mailto:${people[i].email})` : "![Unknown]",
             [head.weblog]: people[i].weblog ? `[![Weblog]](${people[i].weblog})` : "![Unknown]",
