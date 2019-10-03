@@ -1,6 +1,6 @@
 [
   {
-    "h1": " فریلنسر های ایرانی"
+    "h1": "فریلنسر های ایرانی"
   },
   {
     "blockquote": "این مخزن مکانی برای جمع آوری لیستی از فریلنسر های ایرانی با تخصص در حوزه های مختلف می باشد."
@@ -22,24 +22,27 @@
     }
   },
   {
-    "p": "[Email]: assets/icons/envelope-square.svg \"ایمیل\""
+    "p": "[Email]: assets/icons/envelope-square.svg 'ایمیل'"
   },
   {
-    "p": "[Weblog]: assets/icons/globe-africa.svg \"وبلاگ\""
+    "p": "[Weblog]: assets/icons/globe-africa.svg 'وبلاگ'"
   },
   {
-    "p": "[LinkedIn]: assets/icons/linkedin.svg \"لینکدین\""
+    "p": "[LinkedIn]: assets/icons/linkedin.svg 'لینکدین'"
   },
   {
-    "p": "[GitHub]: assets/icons/github-square.svg \"گیت‌هاب\""
+    "p": "[GitHub]: assets/icons/github-square.svg 'گیت‌هاب'"
   },
   {
-    "p": "[Twitter]: assets/icons/twitter-square.svg \"توییتر\""
+    "p": "[Twitter]: assets/icons/twitter-square.svg 'توییتر'"
   },
   {
-    "p": "[Instagram]: assets/icons/instagram.svg \"اینستاگرام\""
+    "p": "[Instagram]: assets/icons/instagram.svg 'اینستاگرام'"
   },
   {
-    "p": "[Telegram]: assets/icons/telegram.svg \"تلگرام\""
+    "p": "[Telegram]: assets/icons/telegram.svg 'تلگرام'"
+  },
+  {
+    "p": "[Unknown]: assets/icons/minus.svg 'نامشخص'"
   }
 ]
