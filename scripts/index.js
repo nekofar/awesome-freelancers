@@ -2,7 +2,7 @@ const json2md = require("json2md");
 const source = require("./source.json");
 const people = require("../people.json");
 
-const tableIndex = 2;
+const tableIndex = 3;
 const sourceJson = () => {
     let head = source[tableIndex].table.headers;
     let rows = [];
