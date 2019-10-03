@@ -65,6 +65,6 @@
 [Telegram]: assets/icons/telegram.svg 'تلگرام'
 
 
-[Unknown]: assets/icons/minus.svg 'نامشخص'
+[Unknown]: assets/icons/square.svg 'نامشخص'
 
 </div>
