@@ -26,6 +26,6 @@ const sourceJson = () => {
 
     return source;
 };
-const outputData = `<div dir="rtl">\n${json2md(sourceJson(), null)}\n</div>`;
+const outputData = `<div dir="rtl">\n\n${json2md(sourceJson(), null)}\n</div>\n`;
 
 process.stdout.write(outputData);
