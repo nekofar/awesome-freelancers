@@ -54,7 +54,8 @@
 43 | میلاد&nbsp;معافی | توسعه دهنده فرانت مسلط به تکنولوژی های React, React-Native, React, Redux | [![Email]](mailto:milixov@gmail.com) | ![Unknown] | [![LinkedIn]](https://linkedin.com/in/miladmoafi) | [![GitHub]](https://github.com/moafim) | [![Twitter]](https://twitter.com/milixof) | [![Instagram]](https://instagram.com/moafimilad) | [![Telegram]](https://t.me/miladmoafi)
 44 | محمد&nbsp;ابطحی | طراحی تبلیغات پوستر و بنر ، ادیت فیلم ، موشن گرافی ( تخصص لوگوموشن ) ، مدیریت وبسایت | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/mhmmd_ab09) | ![Unknown] | [![Telegram]](https://t.me/itsjustmmd)
 45 | بهنام&nbsp;عزیزی | طراح گرافیک و طراح وب | [![Email]](mailto:bh.azizi@gmail.com) | [![Weblog]](http://behnamazizi.com) | [![LinkedIn]](https://linkedin.com/in/behnamazizi) | [![GitHub]](https://github.com/behnamazizi) | [![Twitter]](https://twitter.com/behnamazizi) | [![Instagram]](https://instagram.com/behnaam.azizi) | [![Telegram]](https://t.me/behnamazizi)
-46 | حسن&nbsp;برمه | برنامه سازی تلوزیونی و آگهی های تبلیغاتی و مدل سازی | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/MOFTNAMEH) | ![Unknown] | ![Unknown] | 
+46 | حسن&nbsp;برمه | برنامه سازی تلوزیونی و آگهی های تبلیغاتی و مدل سازی | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/MOFTNAMEH) | ![Unknown] | ![Unknown]
+47 | سید&nbsp;مسعود پزشک زاده | بازی ساز Unity3d، توسعه دهنده جاوا اسکریپت، React Native, Java, Swift | [![Email]](mailto:masoud.pezeshkzade@gmail.com) | [![Weblog]](http://pezeshkzade.com) | [![LinkedIn]](https://linkedin.com/in/masoud-pezeshkzade-bb111887) | [![GitHub]](https://github.com/mdeveloper20) | [![Twitter]](https://twitter.com/mpezeshkzade) | ![Unknown] | ![Unknown] | 
 
 
 [Email]: assets/icons/envelope-square.svg 'ایمیل'
