@@ -52,7 +52,8 @@
 41 | سجاد&nbsp;عباسی | برنامه نویسی وب و موبایل. آشنایی با فریم ورک های ریکت، لاراول و زبان های برنامه نویسی پی اچ پی و جاوا. | [![Email]](mailto:sajjadintel@gmail.com) | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/Sajadabasi_ir) | ![Unknown] | ![Unknown]
 42 | امین&nbsp;علی‌پور | برنامه نویسی مویایل با ریکت نیتیو. آشنایی به زبان های Go و PHP و JS و فریم ورک ریکت. | [![Email]](mailto:aminalipour.dev@gmail.com) | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/aminalipour_dev) | ![Unknown] | ![Unknown]
 43 | میلاد&nbsp;معافی | توسعه دهنده فرانت مسلط به تکنولوژی های React, React-Native, React, Redux | [![Email]](mailto:milixov@gmail.com) | ![Unknown] | [![LinkedIn]](https://linkedin.com/in/miladmoafi) | [![GitHub]](https://github.com/moafim) | [![Twitter]](https://twitter.com/milixof) | [![Instagram]](https://instagram.com/moafimilad) | [![Telegram]](https://t.me/miladmoafi)
-44 | محمد&nbsp;ابطحی | طراحی تبلیغات پوستر و بنر ، ادیت فیلم ، موشن گرافی ( تخصص لوگوموشن ) ، مدیریت وبسایت | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/mhmmd_ab09) | ![Unknown] | [![Telegram]](https://t.me/itsjustmmd) | 
+44 | محمد&nbsp;ابطحی | طراحی تبلیغات پوستر و بنر ، ادیت فیلم ، موشن گرافی ( تخصص لوگوموشن ) ، مدیریت وبسایت | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/mhmmd_ab09) | ![Unknown] | [![Telegram]](https://t.me/itsjustmmd)
+45 | بهنام&nbsp;عزیزی | طراح گرافیک و طراح وب | [![Email]](mailto:bh.azizi@gmail.com) | [![Weblog]](http://behnamazizi.com) | [![LinkedIn]](https://linkedin.com/in/behnamazizi) | [![GitHub]](https://github.com/behnamazizi) | [![Twitter]](https://twitter.com/behnamazizi) | [![Instagram]](https://instagram.com/behnaam.azizi) | [![Telegram]](https://t.me/behnamazizi) | 
 
 
 [Email]: assets/icons/envelope-square.svg 'ایمیل'
