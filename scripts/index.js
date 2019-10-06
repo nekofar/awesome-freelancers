@@ -1,25 +1,26 @@
 const json2md = require("json2md");
 const source = require("./source.json");
 const people = require("../people.json");
+const {shuffle} = require('lodash');
 
 const tableIndex = 3;
 const sourceJson = () => {
     let head = source[tableIndex].table.headers;
-    let rows = [];
+    let rows = shuffle(people);
 
-    for (let i = 0; i < people.length; i++) {
+    for (let i = 0; i < rows.length; i++) {
         let row = i + 1 + '';
         rows[i] = {
             '#': row.padStart(2, '0'),
-            [head.name]: people[i].name ? `${people[i].name}`.replace(" ", "&nbsp;") : "![Unknown]",
-            [head.about]: people[i].about ? `${people[i].about}` : "![Unknown]",
-            [head.email]: people[i].email ? `[![Email]](mailto:${people[i].email})` : "![Unknown]",
-            [head.weblog]: people[i].weblog ? `[![Weblog]](${people[i].weblog})` : "![Unknown]",
-            [head.linkedin]: people[i].linkedin ? `[![LinkedIn]](https://linkedin.com/in/${people[i].linkedin})` : "![Unknown]",
-            [head.github]: people[i].github ? `[![GitHub]](https://github.com/${people[i].github})` : "![Unknown]",
-            [head.twitter]: people[i].twitter ? `[![Twitter]](https://twitter.com/${people[i].twitter})` : "![Unknown]",
-            [head.instagram]: people[i].instagram ? `[![Instagram]](https://instagram.com/${people[i].instagram})` : "![Unknown]",
-            [head.telegram]: people[i].telegram ? `[![Telegram]](https://t.me/${people[i].telegram})` : "![Unknown]"
+            [head.name]: rows[i].name ? `${rows[i].name}`.replace(" ", "&nbsp;") : "![Unknown]",
+            [head.about]: rows[i].about ? `${rows[i].about}` : "![Unknown]",
+            [head.email]: rows[i].email ? `[![Email]](mailto:${rows[i].email})` : "![Unknown]",
+            [head.weblog]: rows[i].weblog ? `[![Weblog]](${rows[i].weblog})` : "![Unknown]",
+            [head.linkedin]: rows[i].linkedin ? `[![LinkedIn]](https://linkedin.com/in/${rows[i].linkedin})` : "![Unknown]",
+            [head.github]: rows[i].github ? `[![GitHub]](https://github.com/${rows[i].github})` : "![Unknown]",
+            [head.twitter]: rows[i].twitter ? `[![Twitter]](https://twitter.com/${rows[i].twitter})` : "![Unknown]",
+            [head.instagram]: rows[i].instagram ? `[![Instagram]](https://instagram.com/${rows[i].instagram})` : "![Unknown]",
+            [head.telegram]: rows[i].telegram ? `[![Telegram]](https://t.me/${rows[i].telegram})` : "![Unknown]"
         }
     }
 
