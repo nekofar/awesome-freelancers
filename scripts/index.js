@@ -12,8 +12,8 @@ const sourceJson = () => {
         let row = i + 1 + '';
         rows[i] = {
             '#': row.padStart(2, '0'),
-            [head.name]: rows[i].name ? `${rows[i].name}`.replace(" ", "&nbsp;") : "![Unknown]",
-            [head.about]: rows[i].about ? `${rows[i].about}` : "![Unknown]",
+            [head.name]: rows[i].name ? `${rows[i].name}`.replace(" ", "&nbsp;") : "",
+            [head.about]: rows[i].about ? `${rows[i].about}` : "",
             [head.email]: rows[i].email ? `[![Email]](mailto:${rows[i].email})` : "![Unknown]",
             [head.weblog]: rows[i].weblog ? `[![Weblog]](${rows[i].weblog})` : "![Unknown]",
             [head.linkedin]: rows[i].linkedin ? `[![LinkedIn]](https://linkedin.com/in/${rows[i].linkedin})` : "![Unknown]",
