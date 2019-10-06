@@ -12,20 +12,20 @@ const sourceJson = () => {
         let row = i + 1 + '';
         rows[i] = {
             '#': row.padStart(2, '0'),
-            [head.name]: (rows[i].name ? `${rows[i].name}`.replace(" ", "&nbsp;") : "![Unknown]")+ "<br>" + (
-                (rows[i].email ? `[![Email]](mailto:${rows[i].email})` : "" )+
-                (rows[i].weblog ? `[![Weblog]](${rows[i].weblog})` : "" )+
-                (rows[i].linkedin ? `[![LinkedIn]](https://linkedin.com/in/${rows[i].linkedin})` : "" )+
-                (rows[i].github ? `[![GitHub]](https://github.com/${rows[i].github})` : "" )+
-                (rows[i].twitter ? `[![Twitter]](https://twitter.com/${rows[i].twitter})` : "" )+
-                (rows[i].instagram ? `[![Instagram]](https://instagram.com/${rows[i].instagram})` : "" )+
-                (rows[i].telegram ? `[![Telegram]](https://t.me/${rows[i].telegram})` : "")),
-            [head.about]: rows[i].about
+            [head.name]: rows[i].name ? `${rows[i].name}`.replace(" ", "&nbsp;") : "![Unknown]",
+            [head.about]: rows[i].about ? `${rows[i].about}` : "![Unknown]",
+            [head.email]: rows[i].email ? `[![Email]](mailto:${rows[i].email})` : "![Unknown]",
+            [head.weblog]: rows[i].weblog ? `[![Weblog]](${rows[i].weblog})` : "![Unknown]",
+            [head.linkedin]: rows[i].linkedin ? `[![LinkedIn]](https://linkedin.com/in/${rows[i].linkedin})` : "![Unknown]",
+            [head.github]: rows[i].github ? `[![GitHub]](https://github.com/${rows[i].github})` : "![Unknown]",
+            [head.twitter]: rows[i].twitter ? `[![Twitter]](https://twitter.com/${rows[i].twitter})` : "![Unknown]",
+            [head.instagram]: rows[i].instagram ? `[![Instagram]](https://instagram.com/${rows[i].instagram})` : "![Unknown]",
+            [head.telegram]: rows[i].telegram ? `[![Telegram]](https://t.me/${rows[i].telegram})` : "![Unknown]"
         }
     }
 
     source[tableIndex].table.rows = rows;
-    source[tableIndex].table.headers = ['#', head.name, head.about];
+    source[tableIndex].table.headers = ['#', ...Object.values(head)];
 
     return source;
 };
