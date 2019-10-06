@@ -1,18 +1,18 @@
 const json2md = require("json2md");
 const source = require("./source.json");
 const people = require("../people.json");
-const {shuffle} = require('lodash');
+const {orderBy} = require('lodash');
 
 const tableIndex = 5;
 const sourceJson = () => {
     let head = source[tableIndex].table.headers;
-    let rows = shuffle(people);
+    let rows = orderBy(people, ['lastName', 'firstName'], ['asc', 'asc']);
 
     for (let i = 0; i < rows.length; i++) {
         let row = i + 1 + '';
         rows[i] = {
             '#': row.padStart(2, '0'),
-            [head.name]: rows[i].name ? `${rows[i].name}`.replace(" ", "&nbsp;") : "",
+            [head.name]: rows[i].firstName ? `${rows[i].firstName} ${rows[i].lastName} `.replace(" ", "&nbsp;") : "",
             [head.about]: rows[i].about ? `${rows[i].about}` : "",
             [head.email]: rows[i].email ? `[![Email]](mailto:${rows[i].email})` : "![Unknown]",
             [head.weblog]: rows[i].weblog ? `[![Weblog]](${rows[i].weblog})` : "![Unknown]",
