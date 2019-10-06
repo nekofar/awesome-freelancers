@@ -16,7 +16,7 @@ const sourceJson = () => {
     for (let i = 0; i < rows.length; i++) {
         let row = i + 1 + '';
         rows[i] = {
-            '#': row.padStart(2, '0'),
+            // '#': row.padStart(2, '0'),
             [head.name]: rows[i].firstName ? `${rows[i].firstName} ${rows[i].lastName} `.replace(" ", "&nbsp;") : "",
             [head.about]: rows[i].about ? `${rows[i].about}` : "",
             [head.email]: rows[i].email ? `[![Email]](mailto:${rows[i].email})` : "![Unknown]",
@@ -30,7 +30,7 @@ const sourceJson = () => {
     }
 
     source[tableIndex].table.rows = rows;
-    source[tableIndex].table.headers = ['#', ...Object.values(head)];
+    source[tableIndex].table.headers = [...Object.values(head)];
 
     return source;
 };
