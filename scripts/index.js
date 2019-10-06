@@ -1,12 +1,17 @@
 const json2md = require("json2md");
 const source = require("./source.json");
 const people = require("../people.json");
-const {orderBy} = require('lodash');
+const lodash = require('lodash');
 
 const tableIndex = 5;
 const sourceJson = () => {
     let head = source[tableIndex].table.headers;
-    let rows = orderBy(people, ['lastName', 'firstName'], ['asc', 'asc']);
+    let rows = lodash.chain(people)
+        .sortBy('firstName')
+        .sortBy('lastName')
+        .partition('lastName')
+        .flatten()
+        .value();
 
     for (let i = 0; i < rows.length; i++) {
         let row = i + 1 + '';
