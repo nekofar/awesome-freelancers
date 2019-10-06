@@ -3,7 +3,7 @@ const source = require("./source.json");
 const people = require("../people.json");
 const {shuffle} = require('lodash');
 
-const tableIndex = 4;
+const tableIndex = 3;
 const sourceJson = () => {
     let head = source[tableIndex].table.headers;
     let rows = shuffle(people);

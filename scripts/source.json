@@ -9,9 +9,6 @@
     "p": "لطفا در صورت تمایل به اضافه کردن اطلاعات خود به این مخزن، صرفا فایل `people.json` را ویرایش نمایید."
   },
   {
-    "p": "<div style='overflow-x:auto;min-width:500px'>"
-  },
-  {
     "table": {
       "headers": {
         "name": "نام",
@@ -26,9 +23,6 @@
       },
       "rows": []
     }
-  },
-  {
-    "p": "</div>"
   },
   {
     "p": "[Email]: assets/icons/envelope-square.svg 'ایمیل'"
