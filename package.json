@@ -6,10 +6,11 @@
   "repository": "git@github.com:nekofar/awesome-freelancers.git",
   "author": "Milad Nekofar <milad@nekofar.com>",
   "license": "MIT",
-  "dependencies": {
-    "json2md": "^1.6.5"
-  },
   "scripts": {
     "update": "node . > README.md"
+  },
+  "devDependencies": {
+    "json2md": "^1.6.5",
+    "lodash": "^4.17.15"
   }
 }
