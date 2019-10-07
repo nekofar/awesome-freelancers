@@ -27,6 +27,7 @@ jobs:
         run: |
           yarn install
           yarn run update
+          yarn run prettier
         env:
           CI: true
       - name: Create Pull Request
