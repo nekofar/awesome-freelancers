@@ -263,7 +263,7 @@
     "instagram": "myartsbox",
     "telegram": ""
   },
-    {
+  {
     "firstName": "سید علی",
     "lastName": "موسوی",
     "about": "طراح گرافیک، صفحه‌آرا، ایندیزاین‌کار حرفه‌ای.",
@@ -730,5 +730,17 @@
     "twitter": "bigmpix",
     "instagram": "bigmpc",
     "telegram": "bigmpc"
+  },
+  {
+    "firstName": "پویا",
+    "lastName": "جباری ثانی",
+    "about": "توسعه دهنده فرانت اند (front-end) و بک اند (back-end)، برنامه نویس ری اکت (ReactJs) و ناد جی اس (NodeJs) ",
+    "email": "pouyajabbarisani@gmail.com",
+    "weblog": "http://pouyajabbarisani.com",
+    "linkedin": "pouyajabbarisani",
+    "github": "pouyajabbarisani",
+    "twitter": "PouyaJabbari",
+    "instagram": "pouyajabbarisani",
+    "telegram": "pouyajabbarisani"
   }
 ]
