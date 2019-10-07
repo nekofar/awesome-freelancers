@@ -1,3 +1,4 @@
+
 <div dir="rtl">
 
 # فریلنسر های ایرانی
@@ -66,7 +67,7 @@
 صبا&nbsp;  | مترجم زبان انگلیسی و آشنا به  ادورتایزینگ و کانتنت مارکتینگ. | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/sabaatmr) | ![Unknown] | ![Unknown]
 مهسا&nbsp;  | مدیریت تبلیغات گوگل. | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/mahsasam88) | ![Unknown] | ![Unknown]
 مینا&nbsp;  | توسعه دهنده اندروید. زبان برنامه نویسی جاوا. | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/ManMinam) | ![Unknown] | ![Unknown] | 
-
+امین شریفی &nbsp;  | توسعه بک اند با فریم ورک لاراول. طراحی نرم افزار تحت وب و MVP | ![Unknown] | [![Weblog]](https://bigm.ir) | ![Unknown] | [![GitHub]](https://github.com/bigmpc)  | [![Twitter]](https://twitter.com/bigmpix) | ![Unknown] | [![Telegram]](https://t.me/bigmpc) | 
 ## مشارکت در توسعه
 
 
