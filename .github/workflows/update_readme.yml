@@ -26,6 +26,7 @@ jobs:
       - name: Install packages and run update
         run: |
           yarn install
+          yarn run prettier
           yarn run update
           yarn run prettier
         env:
