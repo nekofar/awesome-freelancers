@@ -1,4 +1,3 @@
-
 <div dir="rtl">
 
 # فریلنسر های ایرانی
@@ -39,6 +38,7 @@
 سپیده&nbsp;سعید  | متخصص دیجیتال مارکتینگ | ![Unknown] | ![Unknown] | [![LinkedIn]](https://linkedin.com/in/sepideh-saied-26159056) | ![Unknown] | [![Twitter]](https://twitter.com/sepidehsaied) | ![Unknown] | ![Unknown]
 خدایار&nbsp;سعیدوزیری  | مشاور حقوقی. تخصص اصلی درزمینۀ حقوق فناوری اطلاعات و استارت‌آپ‌هآ. | ![Unknown] | ![Unknown] | [![LinkedIn]](https://linkedin.com/in/khodayar-saeedvaziri-22ab8188) | ![Unknown] | [![Twitter]](https://twitter.com/khvaziri) | ![Unknown] | ![Unknown]
 اشکان&nbsp;شاهرخ  | معماری , مدلینگ و رندرینگ سه بعدی و گرافیک | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/AshkanShahrokh) | ![Unknown] | ![Unknown]
+امین&nbsp;شریفی  | توسعه بک اند با فریم ورک لاراول. طراحی نرم افزار تحت وب و MVP | ![Unknown] | [![Weblog]](https://bigm.ir) | ![Unknown] | [![GitHub]](https://github.com/bigmpc) | [![Twitter]](https://twitter.com/bigmpix) | [![Instagram]](https://instagram.com/bigmpc) | [![Telegram]](https://t.me/bigmpc)
 نیما&nbsp;شفیع‌زاده  | بلاگر و بازاریاب محتوایی. | ![Unknown] | [![Weblog]](https://www.nima.today) | [![LinkedIn]](https://linkedin.com/in/NimaShafiezadeh) | ![Unknown] | [![Twitter]](https://twitter.com/NimaShafiezadeh) | [![Instagram]](https://instagram.com/NimaShafiezadeh) | [![Telegram]](https://t.me/nimashafiezadeh)
 ایمان&nbsp;شیرانی  | موشن گرافیست و انیماتور. کارگردانی و مدل سازی. | [![Email]](mailto:imanshirani@gmail.com) | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/imanshirani) | [![Instagram]](https://instagram.com/myartsbox) | ![Unknown]
 سید‌مسعود&nbsp;طباطبایی  | توسعه دهنده Front-End و Back-End وب | [![Email]](mailto:masoudtabatabaei20@gmail.com) | ![Unknown] | [![LinkedIn]](https://linkedin.com/in/masoud-tabatabaei-20) | [![GitHub]](https://github.com/masoudtabatabaei) | [![Twitter]](https://twitter.com/masoudt10) | [![Instagram]](https://instagram.com/masoudtabatabaei) | [![Telegram]](https://t.me/sinmimta)
@@ -67,7 +67,7 @@
 صبا&nbsp;  | مترجم زبان انگلیسی و آشنا به  ادورتایزینگ و کانتنت مارکتینگ. | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/sabaatmr) | ![Unknown] | ![Unknown]
 مهسا&nbsp;  | مدیریت تبلیغات گوگل. | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/mahsasam88) | ![Unknown] | ![Unknown]
 مینا&nbsp;  | توسعه دهنده اندروید. زبان برنامه نویسی جاوا. | ![Unknown] | ![Unknown] | ![Unknown] | ![Unknown] | [![Twitter]](https://twitter.com/ManMinam) | ![Unknown] | ![Unknown] | 
-امین شریفی &nbsp;  | توسعه بک اند با فریم ورک لاراول. طراحی نرم افزار تحت وب و MVP | ![Unknown] | [![Weblog]](https://bigm.ir) | ![Unknown] | [![GitHub]](https://github.com/bigmpc)  | [![Twitter]](https://twitter.com/bigmpix) | ![Unknown] | [![Telegram]](https://t.me/bigmpc) | 
+
 ## مشارکت در توسعه
 
 
