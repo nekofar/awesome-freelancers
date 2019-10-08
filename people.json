@@ -790,5 +790,17 @@
     "twitter": "MyLittleDesk",
     "instagram": "",
     "telegram": "Pnsadeghy"
+  },
+  {
+    "firstName": "محمد",
+    "lastName": "عسکری",
+    "about": "برنامه نویس سرور آشنا با PHP,Laravel,Nodejs,Docker",
+    "email": "farvisun@gmail.com",
+    "weblog": "https://www.farvisun.com/",
+    "linkedin": "farvisun",
+    "github": "farvisun",
+    "twitter": "farvisun",
+    "instagram": "farvisun",
+    "telegram": "farvisun"
   }
 ]
