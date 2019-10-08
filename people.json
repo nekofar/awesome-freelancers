@@ -1,5 +1,4 @@
-[
-  {
+[{
     "firstName": "احسان",
     "lastName": "محمودی",
     "about": "توسعه دهنده وب Go, Python, Nodejs",
@@ -710,14 +709,14 @@
   {
     "firstName": "مریم",
     "lastName": "یزدانپرست",
-    "about": " ویرایش مقاله و رفع پلاجیاریسم در حوزه‌های مرتبط با علوم زیستی و میکروبیولوژی. ",
+    "about": " ویرایش مقاله و رفع پلاجیاریسم در حوزه‌های مرتبط با علوم زیستی و میکروبیولوژی و مشاوره تدوین پایان‌نامه و مقاله فارسی و انگلیسی",
     "email": "",
     "weblog": "https://hwlwk.ir",
     "linkedin": "maryam-yazdanparast-12713442",
     "github": "",
     "twitter": "MParast",
-    "instagram": "",
-    "telegram": ""
+    "instagram": "hwlwk",
+    "telegram": "MYazdanparast"
   },
   {
     "firstName": "امین",
@@ -766,5 +765,17 @@
     "twitter": "mrmehdi_gh",
     "instagram": "",
     "telegram": "mrmmg"
+  },
+  {
+    "firstName": "منیره",
+    "lastName": "منتظری",
+    "about": "عکاس و تورلیدر",
+    "email": "",
+    "weblog": "",
+    "linkedin": "",
+    "github": "",
+    "twitter": "moniirre",
+    "instagram": "moniirre",
+    "telegram": "Moniirre"
   }
 ]
