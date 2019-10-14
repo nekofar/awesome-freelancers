@@ -1,4 +1,28 @@
 [
+   {
+    "firstName": "مرسده",
+    "lastName": "رهبر",
+    "about": "توسعه دهنده فرانت اند (React و Angular)",
+    "email": "mersede.rahbar@gmail.com",
+    "weblog": "",
+    "linkedin": "",
+    "github": "MersedeRahbar",
+    "twitter": "MersedeRahbar",
+    "instagram": "",
+    "telegram": ""
+  },
+  {
+    "firstName": "مجتبی",
+    "lastName": "موسوی",
+    "about": "طراح رابط کاربری",
+    "email": "mojtabaaa.mousavi@gmail.com",
+    "weblog": "",
+    "linkedin": "",
+    "github": "",
+    "twitter": "Mojtaba_msv",
+    "instagram": "mojtabaui",
+    "telegram": ""
+  },
   {
     "firstName": "احسان",
     "lastName": "محمودی",
