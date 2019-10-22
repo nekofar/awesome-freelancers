@@ -3,6 +3,7 @@ const source = require('./source.json');
 const people = require('../people.json');
 const lodash = require('lodash');
 
+const countIndex = 1;
 const tableIndex = 2;
 const sourceJson = () => {
   let head = source[tableIndex].table.headers;
@@ -42,6 +43,8 @@ const sourceJson = () => {
         : '![Unknown]'
     };
   }
+
+  source[countIndex]["p"] = source[countIndex]["p"].replace('#count#', rows.length);
 
   source[tableIndex].table.rows = rows;
   source[tableIndex].table.headers = [...Object.values(head)];
