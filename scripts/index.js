@@ -44,7 +44,10 @@ const sourceJson = () => {
     };
   }
 
-  source[countIndex]["p"] = source[countIndex]["p"].replace('#count#', rows.length);
+  source[countIndex]['p'] = source[countIndex]['p'].replace(
+    '#count#',
+    rows.length
+  );
 
   source[tableIndex].table.rows = rows;
   source[tableIndex].table.headers = [...Object.values(head)];
