@@ -1,10 +1,22 @@
 [
   {
+    "firstName": "فرزانه",
+    "lastName": "دالامی",
+    "about": "مدیریت سوشال مدیا (تولید محتوا و مدیریت و مارکتنیگ) و طراحی و اجرای کمپین های تبلیغاتی",
+    "email": "Farzaneh.dalami@gmail.com",
+    "weblog": "",
+    "linkedin": "",
+    "github": "",
+    "twitter": "farzane_dalami",
+    "instagram": "",
+    "telegram": ""
+  },
+  {
     "firstName": "حامد",
     "lastName": "نجفی",
     "about": "آموزش وردپرس و سئو",
     "email": "",
-    "weblog": "Ofoghweb.com",
+    "weblog": "http://Ofoghweb.com",
     "linkedin": "",
     "github": "",
     "twitter": "HamedNajafi88",
