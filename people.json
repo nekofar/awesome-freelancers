@@ -1,10 +1,22 @@
 [
   {
+    "firstName": "فرزانه",
+    "lastName": "دالامی",
+    "about": "مدیریت سوشال مدیا (تولید محتوا و مدیریت و مارکتنیگ) و طراحی و اجرای کمپین های تبلیغاتی",
+    "email": "Farzaneh.dalami@gmail.com",
+    "weblog": "",
+    "linkedin": "",
+    "github": "",
+    "twitter": "farzane_dalami",
+    "instagram": "",
+    "telegram": ""
+  },
+  {
     "firstName": "حامد",
     "lastName": "نجفی",
     "about": "آموزش وردپرس و سئو",
     "email": "",
-    "weblog": "Ofoghweb.com",
+    "weblog": "http://Ofoghweb.com",
     "linkedin": "",
     "github": "",
     "twitter": "HamedNajafi88",
@@ -80,8 +92,8 @@
     "linkedin": "",
     "github": "sdqnzhd",
     "twitter": "sdqnzhd",
-    "instagram": "",
-    "telegram": ""
+    "instagram": "sdqnzhd",
+    "telegram": "sdqnzhd"
   },
   {
     "firstName": "بهارک",
@@ -1054,5 +1066,17 @@
     "twitter": "pbarjoueian",
     "instagram": "pbarjoueian",
     "telegram": "pbarjoueian"
+  },
+  {
+    "firstName": "امیدرضا",
+    "lastName": "حیدری",
+    "about": "برنامه‌نویسی وب .PHP مسلط به laravel و lumen",
+    "email": "omid77.orh@gmail.com",
+    "weblog": "https://snip77.github.io/me/",
+    "linkedin": "",
+    "github": "snip77",
+    "twitter": "omid_reza_",
+    "instagram": "omid_reza_heidari_",
+    "telegram": "snip77"
   }
 ]
