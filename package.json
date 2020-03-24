@@ -13,7 +13,7 @@
   "devDependencies": {
     "json2md": "^1.6.5",
     "lodash": "^4.17.15",
-    "prettier": "1.19.1"
+    "prettier": "2.0.2"
   },
   "prettier": {
     "singleQuote": true,
