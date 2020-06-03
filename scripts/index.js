@@ -40,7 +40,7 @@ const sourceJson = () => {
         : '![Unknown]',
       [head.telegram]: rows[i].telegram
         ? `[![Telegram]](https://t.me/${rows[i].telegram})`
-        : '![Unknown]'
+        : '![Unknown]',
     };
   }
 
