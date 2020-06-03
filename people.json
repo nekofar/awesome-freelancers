@@ -1128,9 +1128,20 @@
     "telegram": "azerafati"
   },
   {
-    "firstName": "سجاد",
-    "lastName": "عباسی",
-    "about": "فول استک دولوپر Java, Android, React, React Native, Laravel, PHP, MySQL",
+        "firstName": "سید مهدی",
+        "lastName": "فتحی",
+        "about": "فول استک دولوپر PHP, Laravel, CakePHP, AngularJS, React, Jquery, MySQL",
+    "email": "mehdifathi.developer@gmail.com",
+    "linkedin": "mehdi-fathi-a33a52b6",
+    "github": "mehdi-fathi",
+    "twitter": "mehdious22",
+    "instagram": "",
+    "telegram": ""
+  },
+  {    
+        "firstName": "سجاد",
+        "lastName": "عباسی",
+        "about": "فول استک دولوپر Java, Android, React, React Native, Laravel, PHP, MySQL",
     "email": "sajjadintel@gmail.com",
     "weblog": "http://sajadabbasi.me/",
     "linkedin": "sajad-abbasi",
