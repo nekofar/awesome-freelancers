@@ -11,7 +11,7 @@
     "prettier": "prettier \"**/*.{js,md,json}\" --write"
   },
   "devDependencies": {
-    "json2md": "^1.7.0",
+    "json2md": "^1.9.1",
     "lodash": "^4.17.20",
     "prettier": "2.0.5"
   },
