@@ -1,5 +1,17 @@
 [
   {
+    "firstName": "محمد",
+    "lastName": "صالحی",
+    "about": "توسعه دهنده فول استک با PHP و Laravel و مسلط به تکنولوژی های فرانت اند و جاوا اسکریپت - آشنا به پایتون",
+    "email": "msalehipro@gmail.com",
+    "weblog": "",
+    "linkedin": "mohammadsalehipro",
+    "github": "ghambale",
+    "twitter": "ghambale",
+    "instagram": "",
+    "telegram": ""
+  },
+  {
     "firstName": "ایمان",
     "lastName": "نعمتی",
     "about": "توسعه دهنده دات نت در زمینه وب و ویندوز، مدیر پروژه های نرم افزاری و رهبری تیم های نرم افزاری",
