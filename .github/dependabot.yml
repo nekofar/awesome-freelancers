@@ -1,7 +1,53 @@
 version: 2
 updates:
-- package-ecosystem: npm
-  directory: "/"
-  schedule:
-    interval: daily
-  open-pull-requests-limit: 10
+  # Maintain dependencies for GitHub Actions
+  - package-ecosystem: "github-actions"
+    # Files stored in repository root
+    directory: "/"
+    # Check for updates every weekday
+    schedule:
+      interval: "daily"
+    # Add assignees
+    assignees:
+      - "nekofar"
+    # Include a list of updated dependencies
+    commit-message:
+      prefix: "chore" 
+      include: "scope"
+    # Specify labels for pull requests
+    labels:
+      - "dependencies"
+    # Allow up to 10 open pull requests for dependencies
+    open-pull-requests-limit: 10
+    # Add reviewers
+    reviewers:
+      - "nekofar"
+    # Raise pull requests against the `develop` branch
+    target-branch: "develop"
+
+  # Maintain dependencies for Yarn
+  - package-ecosystem: "yarn"
+    # Files stored in repository root
+    directory: "/"
+    # Check for updates every weekday
+    schedule:
+      interval: "daily"
+    # Add assignees
+    assignees:
+      - "nekofar"
+    # Include a list of updated dependencies
+    commit-message:
+      prefix: "chore" 
+      include: "scope"
+    # Specify labels for pull requests
+    labels:
+      - "dependencies"
+    # Allow up to 10 open pull requests for dependencies
+    open-pull-requests-limit: 10
+    # Add reviewers
+    reviewers:
+      - "nekofar"
+    # Raise pull requests against the `develop` branch
+    target-branch: "develop"
+
+
