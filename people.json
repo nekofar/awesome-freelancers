@@ -1,5 +1,41 @@
 [
   {
+    "firstName": "ایمان",
+    "lastName": "دیده ور",
+    "about": "توسعه دهنده اندروید و فرانت اند",
+    "email": "imandidehvar98@gmail.com",
+    "weblog": "https://virgool.io/@imandidehvar98",
+    "linkedin": "iman-didehvar",
+    "github": "imandidehvar98",
+    "twitter": "",
+    "instagram": "iman_didevar_official",
+    "telegram": "iman_didehvar"
+  },
+  {
+    "firstName": "محمد",
+    "lastName": "صالحی",
+    "about": "توسعه دهنده فول استک با PHP و Laravel و مسلط به تکنولوژی های فرانت اند و جاوا اسکریپت - آشنا به پایتون",
+    "email": "msalehipro@gmail.com",
+    "weblog": "",
+    "linkedin": "mohammadsalehipro",
+    "github": "ghambale",
+    "twitter": "ghambale",
+    "instagram": "",
+    "telegram": ""
+  },
+  {
+    "firstName": "ایمان",
+    "lastName": "نعمتی",
+    "about": "توسعه دهنده دات نت در زمینه وب و ویندوز، مدیر پروژه های نرم افزاری و رهبری تیم های نرم افزاری",
+    "email": "imun22@gmail.com",
+    "weblog": "",
+    "linkedin": "inemati",
+    "github": "imaun",
+    "twitter": "imanpad",
+    "instagram": "imun22",
+    "telegram": "imuan"
+  },
+  {
     "firstName": "فرزانه",
     "lastName": "دالامی",
     "about": "مدیریت سوشال مدیا (تولید محتوا و مدیریت و مارکتنیگ) و طراحی و اجرای کمپین های تبلیغاتی",
@@ -1161,5 +1197,29 @@
     "twitter": "sajjadintel",
     "instagram": "sajjadintel",
     "telegram": "sajjadintel"
+  },
+  {
+    "firstName": "امیر",
+    "lastName": "شکری",
+    "about": "برنامه نویس و وبلاگ نویس",
+    "email": "amirsh.nll@gmail.com",
+    "weblog": "http://ashokri.com/",
+    "linkedin": "amir-shokri-7a928811b",
+    "github": "amirshnll",
+    "twitter": "amirshnll",
+    "instagram": "amirshnll",
+    "telegram": "amirshnll"
+  },
+  {
+    "firstName": "احمدرضا",
+    "lastName": "ساغری",
+    "about": "Full stack C# Developer, System Software DeveDeveloper, Web Backend expertise",
+    "email": "cinorid@gmail.com",
+    "weblog": "http://ahmadsoft.ir/",
+    "linkedin": "cinorid",
+    "github": "cinorid",
+    "twitter": "cinorid",
+    "instagram": "cinorid",
+    "telegram": "cinorid"
   }
 ]

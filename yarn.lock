@@ -7,19 +7,19 @@ indento@^1.1.7:
   resolved "https://registry.yarnpkg.com/indento/-/indento-1.1.12.tgz#e95942e88e528655df33f129b6826019a1a221fd"
   integrity sha512-hWlFlRL6dd06MU5SsOZZ6kzO7t/7ZjcxWh1Yf/MjGtyKQMC8SPS5GbZ2XqMBGaGn+HM2QQawYxSLtS7Zv0w0BQ==
 
-json2md@^1.7.0:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/json2md/-/json2md-1.7.0.tgz#aaf4bad77ec8c0e623169a288add12b6493e180e"
-  integrity sha512-g/lg6H3sEeyqCTqNLn8DTsqAa2wwqUI0Y7MnZ8d6wJLMJLgsMp5mBO9hPIPPuFjv/C1vYBoKAZG8TdTfcIGZCA==
+json2md@^1.11.0:
+  version "1.11.0"
+  resolved "https://registry.yarnpkg.com/json2md/-/json2md-1.11.0.tgz#4484a6d1b0e37069a5e6c6fb374ddd328090ef56"
+  integrity sha512-RhmW8ZpnEHxLaRJ9r9FeOYZys4p0j9OYMgkrkaJiO4Kgus2IWG/iTPTApwiiw7tLtyYj9cpztwmNYkAH0BtYDQ==
   dependencies:
     indento "^1.1.7"
 
-lodash@^4.17.15:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+lodash@^4.17.21:
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
-prettier@2.0.5:
-  version "2.0.5"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.0.5.tgz#d6d56282455243f2f92cc1716692c08aa31522d4"
-  integrity sha512-7PtVymN48hGcO4fGjybyBSIWDsLU4H4XlvOHfq91pz9kkGlonzwTfYkaIEwiRg/dAJF9YlbsduBAgtYLi+8cFg==
+prettier@2.4.1:
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.4.1.tgz#671e11c89c14a4cfc876ce564106c4a6726c9f5c"
+  integrity sha512-9fbDAXSBcc6Bs1mZrDYb3XKzDLm4EXXL9sC1LqKP5rZkT6KRr/rf9amVUcODVXgguK/isJz0d0hP72WeaKWsvA==
