@@ -1221,5 +1221,17 @@
     "twitter": "cinorid",
     "instagram": "cinorid",
     "telegram": "cinorid"
+  },
+  {
+    "firstName": "محمد صالح",
+    "lastName": "سوزنچی",
+    "about": "نیمچه فول استک دولوپر آشنا با: PHP, CakePHP, Vue.js, Jquery, MySQL & MsSQL, Python & nodejs , ... و همچنین طراحی و توسعه فونت فارسی",
+    "email": "saleh.souzanchi@gmail.com",
+    "weblog": "https://soozanchi.ir/",
+    "linkedin": "souzanchi",
+    "github": "zoghal",
+    "twitter": "zoghal",
+    "instagram": "saleh.souzanchi",
+    "telegram": "zoghal"
   }
 ]
