@@ -12,7 +12,7 @@ updates:
       - "nekofar"
     # Include a list of updated dependencies
     commit-message:
-      prefix: "build" 
+      prefix: "ci" 
       include: "scope"
     # Specify labels for pull requests
     labels:
