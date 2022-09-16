@@ -7,10 +7,10 @@ indento@^1.1.13:
   resolved "https://registry.yarnpkg.com/indento/-/indento-1.1.13.tgz#751331b327c04740eeb7be40c5606e6e255c9e36"
   integrity sha512-YZWk3mreBEM7sBPddsiQnW9Z8SGg/gNpFfscJq00HCDS7pxcQWWWMSVKJU7YkTRyDu1Zv2s8zaK8gQWKmCXHlg==
 
-json2md@^1.12.0:
-  version "1.12.0"
-  resolved "https://registry.yarnpkg.com/json2md/-/json2md-1.12.0.tgz#3ac0a2f8f5af140d6f29d91ab1107ca696305165"
-  integrity sha512-bpJpuqECzkndCa10aGPxeJNikmkDN7PAGXHvrBGTI4uey6QbTL5p0rkhk9lB3lKU4J7yGvkSmVBt8VhzUGu/fA==
+json2md@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/json2md/-/json2md-2.0.0.tgz#9ea4404183b836c39dfa886b4bbf25c8186694eb"
+  integrity sha512-4PIMtD0zTfQZWcUId1EyHY2BQ2EG/imHWHkGFbXYPlczW8G6wPJA/BRVN3e5v6NPwFUCcoFvUsCeo6rzV2CWww==
   dependencies:
     indento "^1.1.13"
 
