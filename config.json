@@ -1,0 +1,11 @@
+{
+  "markdown-to-html": {
+    "document": {
+      "title": "فریلنسر های ایرانی",
+      "description": "این مخزن مکانی برای جمع آوری لیستی از فریلنسر های ایرانی با تخصص های مختلف می باشد.",
+      "style": "@import url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn/Vazirmatn-font-face.css'); markdown-style {  direction: rtl; font-family: Vazirmatn, sans-serif; }"
+    },
+    "favicon": "",
+    "github-corners": "https://github.com/nekofar/awesome-freelancers"
+  }
+}
