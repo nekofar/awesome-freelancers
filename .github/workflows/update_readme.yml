@@ -12,25 +12,40 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [15.x]
+        node-version: [17.x]
 
     steps:
-      - uses: actions/checkout@v3.3.0
-      - name: Checkout branch
-        run: git checkout "${GITHUB_REF:11}"
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v3.6.0
+      - uses: pnpm/action-setup@v2.2.4
+        name: Install pnpm
+        id: pnpm-install
         with:
-          node-version: ${{ matrix.node-version }}
-      - name: Install yan using npm
+          version: ^7
+          run_install: false
+
+      - name: Get pnpm store directory
+        id: pnpm-cache
         run: |
-          npm install yarn -g
+          echo "pnpm_cache_dir=$(pnpm store path)" >> $GITHUB_OUTPUT
+
+      - uses: actions/cache@v3.2.4
+        name: Setup pnpm cache
+        with:
+          path: ${{ steps.pnpm-cache.outputs.pnpm_cache_dir }}
+          key: pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-store-
+
+      - name: Checkout
+        uses: actions/checkout@v3.3.0
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+
       - name: Install packages and run update
         run: |
-          yarn install
-          yarn run prettier
-          yarn run update
-          yarn run prettier
+          pnpm install
+          pnpm run prettier
+          pnpm run update
+          pnpm run prettier
         env:
           CI: true
       - name: Create Pull Request
