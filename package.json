@@ -8,7 +8,11 @@
   "license": "MIT",
   "scripts": {
     "update": "node . > README.md",
-    "prettier": "prettier \"**/*.{js,md,json}\" --write"
+    "prettier": "prettier \"**/*.{js,md,json}\" --write",
+    "preexport": "mkdir -p out; cp -av assets out",
+    "export": "npx markdown-to-html --config config.json --output out/index.html --no-dark-mode --markdown-style-theme light",
+    "prestart": "npm run export",
+    "start": "npx wrangler pages dev out"
   },
   "devDependencies": {
     "json2md": "^2.0.0",
