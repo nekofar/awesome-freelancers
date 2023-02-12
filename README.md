@@ -121,13 +121,13 @@
 
 لطفا توجه داشته باشید که وارد کردن نام کاربری شبکه های اجتماعی در فایل بالا کفایت می کند و نیاز به وارد کردن آدرس کامل نیست.
 
-[email]: assets/icons/envelope-square.svg 'ایمیل'
-[weblog]: assets/icons/rss-square.svg 'وبلاگ'
-[linkedin]: assets/icons/linkedin.svg 'لینکدین'
-[github]: assets/icons/github-square.svg 'گیت‌هاب'
-[twitter]: assets/icons/twitter-square.svg 'توییتر'
-[instagram]: assets/icons/instagram.svg 'اینستاگرام'
-[telegram]: assets/icons/telegram.svg 'تلگرام'
-[unknown]: assets/icons/square.svg 'نامشخص'
+[Email]: assets/icons/envelope-square.svg 'ایمیل'
+[Weblog]: assets/icons/rss-square.svg 'وبلاگ'
+[LinkedIn]: assets/icons/linkedin.svg 'لینکدین'
+[GitHub]: assets/icons/github-square.svg 'گیت‌هاب'
+[Twitter]: assets/icons/twitter-square.svg 'توییتر'
+[Instagram]: assets/icons/instagram.svg 'اینستاگرام'
+[Telegram]: assets/icons/telegram.svg 'تلگرام'
+[Unknown]: assets/icons/square.svg 'نامشخص'
 
 </div>
