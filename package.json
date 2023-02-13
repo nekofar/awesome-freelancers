@@ -7,10 +7,12 @@
   "author": "Milad Nekofar <milad@nekofar.com>",
   "license": "MIT",
   "scripts": {
-    "update": "node . > README.md",
+    "build": "node . > README.md",
+    "postbuild": "npm run prettier",
     "prettier": "prettier \"**/*.{js,md,json}\" --write",
-    "preexport": "mkdir -p out; cp -av assets out",
-    "export": "npx markdown-to-html --config config.json --output out/index.html --no-dark-mode --markdown-style-theme light",
+    "preexport": "npm run build",
+    "export": "npx markdown-to-html --config config.json --output out/index.html --markdown-style-theme dark",
+    "postexport": "mkdir -p out; cp -av assets out",
     "prestart": "npm run export",
     "start": "npx wrangler pages dev out"
   },
