@@ -5,8 +5,28 @@ const lodash = require('lodash');
 
 const countIndex = 1;
 const tableIndex = 2;
+
+const buildIcon = (link, icon, title) => {
+  let picture =
+    `<picture>` +
+    `<source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/${icon}.svg?raw=true">` +
+    `<source media="(prefers-color-scheme: light)" srcset="assets/icons/light/${icon}.svg?raw=true">` +
+    `<img alt="${title}" src="assets/icons/light/${icon}.svg?raw=true">` +
+    `</picture>`;
+
+  return link ? `<a href="${link}">${picture}</a>` : picture;
+};
+
 const sourceJson = () => {
   let head = source[tableIndex].table.headers;
+  head.email = buildIcon(null, 'envelope-square', 'Email');
+  head.weblog = buildIcon(null, 'rss-square', 'Weblog');
+  head.linkedin = buildIcon(null, 'linkedin', 'LinkedIn');
+  head.github = buildIcon(null, 'github-square', 'GitHub');
+  head.twitter = buildIcon(null, 'twitter-square', 'Twitter');
+  head.instagram = buildIcon(null, 'instagram', 'Instagram');
+  head.telegram = buildIcon(null, 'telegram', 'Telegram');
+
   let rows = lodash
     .chain(people)
     .sortBy('firstName')
@@ -21,26 +41,42 @@ const sourceJson = () => {
       [head.name]: name.replace(' ', '&nbsp;'),
       [head.about]: rows[i].about,
       [head.email]: rows[i].email
-        ? `[![Email]](mailto:${rows[i].email})`
-        : '![Unknown]',
+        ? buildIcon(`mailto:${rows[i].email}`, 'envelope-square', 'Email')
+        : buildIcon(null, 'square', 'Unknown'),
       [head.weblog]: rows[i].weblog
-        ? `[![Weblog]](${rows[i].weblog})`
-        : '![Unknown]',
+        ? buildIcon(`${rows[i].weblog}`, 'rss-square', 'Weblog')
+        : buildIcon(null, 'square', 'Unknown'),
       [head.linkedin]: rows[i].linkedin
-        ? `[![LinkedIn]](https://linkedin.com/in/${rows[i].linkedin})`
-        : '![Unknown]',
+        ? buildIcon(
+            `https://linkedin.com/in/${rows[i].linkedin}`,
+            'linkedin',
+            'LinkedIn'
+          )
+        : buildIcon(null, 'square', 'Unknown'),
       [head.github]: rows[i].github
-        ? `[![GitHub]](https://github.com/${rows[i].github})`
-        : '![Unknown]',
+        ? buildIcon(
+            `https://github.com/${rows[i].github}`,
+            'github-square',
+            'GitHub'
+          )
+        : buildIcon(null, 'square', 'Unknown'),
       [head.twitter]: rows[i].twitter
-        ? `[![Twitter]](https://twitter.com/${rows[i].twitter})`
-        : '![Unknown]',
+        ? buildIcon(
+            `https://twitter.com/${rows[i].twitter}`,
+            'twitter-square',
+            'Twitter'
+          )
+        : buildIcon(null, 'square', 'Unknown'),
       [head.instagram]: rows[i].instagram
-        ? `[![Instagram]](https://instagram.com/${rows[i].instagram})`
-        : '![Unknown]',
+        ? buildIcon(
+            `https://instagram.com/${rows[i].instagram}`,
+            'instagram',
+            'Instagram'
+          )
+        : buildIcon(null, 'square', 'Unknown'),
       [head.telegram]: rows[i].telegram
-        ? `[![Telegram]](https://t.me/${rows[i].telegram})`
-        : '![Unknown]',
+        ? buildIcon(`https://t.me/${rows[i].telegram}`, 'telegram', 'Telegram')
+        : buildIcon(null, 'square', 'Unknown'),
     };
   }
 
@@ -54,7 +90,8 @@ const sourceJson = () => {
 
   return source;
 };
-const outputData = `<div dir="rtl">\n\n${json2md(
+
+const outputData = `<div dir='rtl'>\n\n${json2md(
   sourceJson(),
   null
 )}\n</div>\n`;
