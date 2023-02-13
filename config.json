@@ -3,9 +3,18 @@
     "document": {
       "title": "فریلنسر های ایرانی",
       "description": "این مخزن مکانی برای جمع آوری لیستی از فریلنسر های ایرانی با تخصص های مختلف می باشد.",
-      "style": "@import url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn/Vazirmatn-font-face.css'); markdown-style {  direction: rtl; font-family: Vazirmatn, sans-serif; }"
+      "css": [
+        "https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn/Vazirmatn-font-face.css"
+      ],
+      "style": [
+        "body {background-color: #0d1117;}",
+        "markdown-style {font-family: Vazirmatn, sans-serif;}"
+      ],
+      "dir": "rtl",
+      "language": "fa"
     },
     "favicon": "",
-    "github-corners": "https://github.com/nekofar/awesome-freelancers"
+    "github-corners": "https://github.com/nekofar/awesome-freelancers",
+    "dark-mode": false
   }
 }

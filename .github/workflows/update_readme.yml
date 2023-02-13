@@ -43,9 +43,7 @@ jobs:
       - name: Install packages and run update
         run: |
           pnpm install
-          pnpm run prettier
-          pnpm run update
-          pnpm run prettier
+          pnpm run build
         env:
           CI: true
       - name: Create Pull Request
