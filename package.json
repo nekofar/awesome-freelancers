@@ -10,9 +10,8 @@
     "build": "node . > README.md",
     "postbuild": "npm run prettier",
     "prettier": "prettier \"**/*.{js,md,json}\" --write",
-    "preexport": "npm run build",
+    "preexport": "npm run build; mkdir -p out; cp -av assets out",
     "export": "npx markdown-to-html --config config.json --output out/index.html --markdown-style-theme dark",
-    "postexport": "mkdir -p out; cp -av assets out",
     "prestart": "npm run export",
     "start": "npx wrangler pages dev out"
   },
