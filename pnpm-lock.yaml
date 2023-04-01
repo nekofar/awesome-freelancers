@@ -4,14 +4,14 @@ specifiers:
   json2md: 2.0.0
   lodash: 4.17.21
   markdown-to-html-cli: 3.5.3
-  prettier: 2.8.4
+  prettier: 2.8.7
   wrangler: 2.13.0
 
 devDependencies:
   json2md: 2.0.0
   lodash: 4.17.21
   markdown-to-html-cli: 3.5.3
-  prettier: 2.8.4
+  prettier: 2.8.7
   wrangler: 2.13.0
 
 packages:
@@ -1641,8 +1641,8 @@ packages:
     engines: {node: '>=8.6'}
     dev: true
 
-  /prettier/2.8.4:
-    resolution: {integrity: sha512-vIS4Rlc2FNh0BySk3Wkd6xmwxB0FpOndW5fisM5H8hsZSxU2VWVB5CWIkIjWvrHjIhxk2g3bfMKM87zNTrZddw==}
+  /prettier/2.8.7:
+    resolution: {integrity: sha512-yPngTo3aXUUmyuTjeTUT75txrf+aMh9FiD7q9ZE/i6r0bPb22g4FsE6Y338PQX1bmfy08i9QQCB7/rcUAVntfw==}
     engines: {node: '>=10.13.0'}
     hasBin: true
     dev: true
