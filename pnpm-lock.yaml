@@ -3,14 +3,14 @@ lockfileVersion: 5.4
 specifiers:
   json2md: 2.0.0
   lodash: 4.17.21
-  markdown-to-html-cli: 3.5.2
+  markdown-to-html-cli: 3.5.3
   prettier: 2.8.4
   wrangler: 2.11.0
 
 devDependencies:
   json2md: 2.0.0
   lodash: 4.17.21
-  markdown-to-html-cli: 3.5.2
+  markdown-to-html-cli: 3.5.3
   prettier: 2.8.4
   wrangler: 2.11.0
 
@@ -1070,8 +1070,8 @@ packages:
     resolution: {integrity: sha512-Z1NL3Tb1M9wH4XESsCDEksWoKTdlUafKc4pt0GRwjUyXaCFZ+dc3g2erqB6zm3szA2IUSi7VnPI+o/9jnxh9hw==}
     dev: true
 
-  /markdown-to-html-cli/3.5.2:
-    resolution: {integrity: sha512-JBF7IY/h5bXjVgLxKwfFUMPAUdq/0KMcWmFooBJreFQvXQqQEezdJIkgEMT67zz71g87Uv8rjg9vxKkOax7mRg==}
+  /markdown-to-html-cli/3.5.3:
+    resolution: {integrity: sha512-C/xiFfSgwU2ueXFx/LinEdcMA4hEdw852GLZhL/gvsQKCvDsZxGJWQrk2uMw5FPT/wxuPJ48XMUEIqRyqy+Qcg==}
     engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
     hasBin: true
     dependencies:
