@@ -5,14 +5,14 @@ specifiers:
   lodash: 4.17.21
   markdown-to-html-cli: 3.5.2
   prettier: 2.8.4
-  wrangler: 2.11.0
+  wrangler: 2.13.0
 
 devDependencies:
   json2md: 2.0.0
   lodash: 4.17.21
   markdown-to-html-cli: 3.5.2
   prettier: 2.8.4
-  wrangler: 2.11.0
+  wrangler: 2.13.0
 
 packages:
 
@@ -2144,8 +2144,8 @@ packages:
       isexe: 2.0.0
     dev: true
 
-  /wrangler/2.11.0:
-    resolution: {integrity: sha512-JvqWL8YyzLZsQhWgcCoDJkh47K7PdYH58LbE+7bDtMugkTzDEj0PS8aoJDEUw+5NDHhtoP2TMize44YVdnHgpw==}
+  /wrangler/2.13.0:
+    resolution: {integrity: sha512-hU7RpOjDcyOlKO0xuNEOKINwSA1lh5nSkTH8aKKdatv2Ryt5gSS26RwS49QpZCYJGxGHzhHPr++TlSggOAsEVA==}
     engines: {node: '>=16.13.0'}
     hasBin: true
     dependencies:
