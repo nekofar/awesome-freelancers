@@ -18,7 +18,7 @@
   "devDependencies": {
     "json2md": "2.0.0",
     "lodash": "4.17.21",
-    "markdown-to-html-cli": "3.6.0",
+    "markdown-to-html-cli": "3.7.0",
     "prettier": "2.8.8",
     "wrangler": "3.0.1"
   },
