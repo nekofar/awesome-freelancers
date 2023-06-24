@@ -25,8 +25,8 @@ updates:
     # Raise pull requests against the `develop` branch
     target-branch: "develop"
 
-  # Maintain dependencies for NPM
-  - package-ecosystem: "npm"
+  # Maintain dependencies for PNPM
+  - package-ecosystem: "pnpm"
     # Files stored in repository root
     directory: "/"
     # Check for updates every weekday
