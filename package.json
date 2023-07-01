@@ -25,5 +25,11 @@
   "prettier": {
     "singleQuote": true,
     "semi": true
-  }
+  },
+  "funding": [
+    {
+      "type": "custom",
+      "url": "https://ud.me/nekofar.crypto"
+    }
+  ]
 }
