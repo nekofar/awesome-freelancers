@@ -50,28 +50,28 @@ const sourceJson = () => {
         ? buildIcon(
             `https://linkedin.com/in/${rows[i].linkedin}`,
             'linkedin',
-            'LinkedIn'
+            'LinkedIn',
           )
         : buildIcon(null, 'square', 'Unknown'),
       [head.github]: rows[i].github
         ? buildIcon(
             `https://github.com/${rows[i].github}`,
             'github-square',
-            'GitHub'
+            'GitHub',
           )
         : buildIcon(null, 'square', 'Unknown'),
       [head.twitter]: rows[i].twitter
         ? buildIcon(
             `https://twitter.com/${rows[i].twitter}`,
             'twitter-square',
-            'Twitter'
+            'Twitter',
           )
         : buildIcon(null, 'square', 'Unknown'),
       [head.instagram]: rows[i].instagram
         ? buildIcon(
             `https://instagram.com/${rows[i].instagram}`,
             'instagram',
-            'Instagram'
+            'Instagram',
           )
         : buildIcon(null, 'square', 'Unknown'),
       [head.telegram]: rows[i].telegram
@@ -82,7 +82,7 @@ const sourceJson = () => {
 
   source[countIndex]['p'] = source[countIndex]['p'].replace(
     '#count#',
-    rows.length
+    rows.length,
   );
 
   source[tableIndex].table.rows = rows;
@@ -93,7 +93,7 @@ const sourceJson = () => {
 
 const outputData = `<div dir='rtl'>\n\n${json2md(
   sourceJson(),
-  null
+  null,
 )}\n</div>\n`;
 
 process.stdout.write(outputData);
