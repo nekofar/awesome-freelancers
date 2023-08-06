@@ -25,7 +25,7 @@ updates:
     # Raise pull requests against the `develop` branch
     target-branch: "develop"
 
-  # Maintain dependencies for NPM
+  # Maintain dependencies for PNPM
   - package-ecosystem: "npm"
     # Files stored in repository root
     directory: "/"
@@ -43,7 +43,7 @@ updates:
     labels:
       - "dependencies"
     # Allow up to 10 open pull requests for dependencies
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 20
     # Add reviewers
     reviewers:
       - "nekofar"
