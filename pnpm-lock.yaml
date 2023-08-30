@@ -12,8 +12,8 @@ devDependencies:
     specifier: 4.17.21
     version: 4.17.21
   markdown-to-html-cli:
-    specifier: 3.7.0
-    version: 3.7.0
+    specifier: 3.8.0
+    version: 3.8.0
   prettier:
     specifier: 3.0.1
     version: 3.0.1
@@ -1010,8 +1010,8 @@ packages:
     resolution: {integrity: sha512-Z1NL3Tb1M9wH4XESsCDEksWoKTdlUafKc4pt0GRwjUyXaCFZ+dc3g2erqB6zm3szA2IUSi7VnPI+o/9jnxh9hw==}
     dev: true
 
-  /markdown-to-html-cli@3.7.0:
-    resolution: {integrity: sha512-aj2vjax+DJ46bqpcCp49zi4Z22eZStJLkfyD02VlysnD/u2ImhI/b5cPoJ7JeP4C9uD3iem3+jJmo8yyc72PBg==}
+  /markdown-to-html-cli@3.8.0:
+    resolution: {integrity: sha512-lPYzjwvVSIBxalVb7MiC6LdigOzN+CPPmOR7aS+NJIUekAxMhbxldk+by7ne52d5EBm4PZatdxofZyldVqDP0g==}
     engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
     hasBin: true
     dependencies:
