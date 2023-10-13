@@ -20,7 +20,7 @@
     "lodash": "4.17.21",
     "markdown-to-html-cli": "3.10.3",
     "prettier": "3.0.3",
-    "wrangler": "3.8.0"
+    "wrangler": "3.13.1"
   },
   "prettier": {
     "singleQuote": true,
