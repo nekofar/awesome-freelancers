@@ -12,8 +12,8 @@ devDependencies:
     specifier: 4.17.21
     version: 4.17.21
   markdown-to-html-cli:
-    specifier: 4.0.1
-    version: 4.0.1
+    specifier: 4.0.3
+    version: 4.0.3
   prettier:
     specifier: 3.1.0
     version: 3.1.0
@@ -325,7 +325,7 @@ packages:
   /@types/hast@2.3.4:
     resolution: {integrity: sha512-wLEm0QvaoawEDoTRwzTXp4b4jpwiJDvR5KMnFnVodm3scufTlBOWRD6N1OBf9TZMhjlNsSfcO5V+7AF4+Vy+9g==}
     dependencies:
-      '@types/unist': 2.0.6
+      '@types/unist': 3.0.0
     dev: true
 
   /@types/hast@3.0.1:
@@ -347,7 +347,7 @@ packages:
   /@types/mdast@4.0.1:
     resolution: {integrity: sha512-IlKct1rUTJ1T81d8OHzyop15kGv9A/ff7Gz7IJgrk6jDb4Udw77pCJ+vq8oxZf4Ghpm+616+i1s/LNg/Vh7d+g==}
     dependencies:
-      '@types/unist': 2.0.6
+      '@types/unist': 3.0.0
     dev: true
 
   /@types/minimist@1.2.3:
@@ -1150,8 +1150,8 @@ packages:
     resolution: {integrity: sha512-Z1NL3Tb1M9wH4XESsCDEksWoKTdlUafKc4pt0GRwjUyXaCFZ+dc3g2erqB6zm3szA2IUSi7VnPI+o/9jnxh9hw==}
     dev: true
 
-  /markdown-to-html-cli@4.0.1:
-    resolution: {integrity: sha512-fwe0/rR7q7YhFRZOEbSLw3STJnJyFcSvNSQmnvUwN8vZQdSP7OTodP6SnGN2QLm31nghjd5vYX9krVFhUhTZFg==}
+  /markdown-to-html-cli@4.0.3:
+    resolution: {integrity: sha512-79CFupuX+AXL9FI5OuIXT1KPdQekl7F72hjJTOja6tWrFDVPNxUkWmwQZsAGH5La/FlZr5QVdpiXd6eEnFow6w==}
     engines: {node: '>=16'}
     hasBin: true
     dependencies:
