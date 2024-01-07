@@ -6,8 +6,8 @@ settings:
 
 devDependencies:
   json2md:
-    specifier: 2.0.0
-    version: 2.0.0
+    specifier: 2.0.1
+    version: 2.0.1
   lodash:
     specifier: 4.17.21
     version: 4.17.21
@@ -1129,8 +1129,8 @@ packages:
       '@pkgjs/parseargs': 0.11.0
     dev: true
 
-  /json2md@2.0.0:
-    resolution: {integrity: sha512-4PIMtD0zTfQZWcUId1EyHY2BQ2EG/imHWHkGFbXYPlczW8G6wPJA/BRVN3e5v6NPwFUCcoFvUsCeo6rzV2CWww==}
+  /json2md@2.0.1:
+    resolution: {integrity: sha512-VbwmZ83qmUfKBS2pUOHlzNKEZFPBeJSbzEok3trMYyboZUgdHNn1XZfc1uT8UZs1GHCrmRUBXCfqw4YmmQuOhw==}
     dependencies:
       indento: 1.1.13
     dev: true
