@@ -4,6 +4,9 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+overrides:
+  katex: '>=0.16.10'
+
 devDependencies:
   json2md:
     specifier: 2.0.1

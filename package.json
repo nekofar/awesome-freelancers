@@ -22,6 +22,9 @@
     "prettier": "3.2.5",
     "wrangler": "3.39.0"
   },
+  "resolutions": {
+    "katex": ">=0.16.10"
+  },
   "prettier": {
     "singleQuote": true,
     "semi": true
