@@ -1615,7 +1615,7 @@ packages:
       stoppable: 1.1.0
       undici: 5.28.3
       workerd: 1.20240320.1
-      ws: 8.13.0
+      ws: 8.17.1
       youch: 3.2.3
       zod: 3.21.4
     transitivePeerDependencies:
@@ -2378,8 +2378,8 @@ packages:
       strip-ansi: 7.1.0
     dev: true
 
-  /ws@8.13.0:
-    resolution: {integrity: sha512-x9vcZYTrFPC7aSIbj7sRCYo7L/Xb8Iy+pW0ng0wt2vCJv7M9HOMy0UoN3rr+IFC7hb7vXoqS+P9ktyLLLhO+LA==}
+  /ws@8.17.1:
+    resolution: {integrity: sha512-6XQFvXTkbfUOZOKKILFG1PDK2NDQs4azKQl26T0YS5CxqWLgXajbPZ+h4gZekJyRqFU8pvnbAbbs/3TgRPy+GQ==}
     engines: {node: '>=10.0.0'}
     peerDependencies:
       bufferutil: ^4.0.1
