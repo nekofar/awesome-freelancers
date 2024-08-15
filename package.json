@@ -20,7 +20,7 @@
     "lodash": "4.17.21",
     "markdown-to-html-cli": "4.0.3",
     "prettier": "3.3.3",
-    "wrangler": "3.51.2"
+    "wrangler": "3.71.0"
   },
   "resolutions": {
     "katex": ">=0.16.10"
