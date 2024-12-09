@@ -19,7 +19,7 @@
     "json2md": "2.0.1",
     "lodash": "4.17.21",
     "markdown-to-html-cli": "4.0.3",
-    "prettier": "3.4.1",
+    "prettier": "3.4.2",
     "wrangler": "3.91.0"
   },
   "resolutions": {
