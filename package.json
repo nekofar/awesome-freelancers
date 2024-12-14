@@ -23,7 +23,8 @@
     "wrangler": "3.94.0"
   },
   "resolutions": {
-    "katex": ">=0.16.10"
+    "katex": ">=0.16.10",
+    "nanoid": ">=3.3.8"
   },
   "prettier": {
     "singleQuote": true,
