@@ -23,6 +23,7 @@
     "wrangler": "3.94.0"
   },
   "resolutions": {
+    "cookie": ">=0.7.0",
     "cross-spawn": ">=7.0.0",
     "katex": ">=0.16.10",
     "nanoid": ">=3.3.8"
