@@ -22,8 +22,8 @@ importers:
         specifier: 4.17.21
         version: 4.17.21
       markdown-to-html-cli:
-        specifier: 5.0.0
-        version: 5.0.0
+        specifier: 5.0.2
+        version: 5.0.2
       prettier:
         specifier: 3.4.2
         version: 3.4.2
@@ -649,8 +649,8 @@ packages:
   markdown-table@3.0.3:
     resolution: {integrity: sha512-Z1NL3Tb1M9wH4XESsCDEksWoKTdlUafKc4pt0GRwjUyXaCFZ+dc3g2erqB6zm3szA2IUSi7VnPI+o/9jnxh9hw==}
 
-  markdown-to-html-cli@5.0.0:
-    resolution: {integrity: sha512-JIwRlfn9/4oRJZM4zqUxXZvEpwW7uyT59kGggj3GFc1N9Y63aCwj35KzTFfcLt8LeHeOCnrYnxrp/Wx1Ob31kw==}
+  markdown-to-html-cli@5.0.2:
+    resolution: {integrity: sha512-98CU6GAZ+AjGK2ADM+WAyyObkgR+t4E8Z/W3leAMYsRvwTJvGGuPb8wdc0Vtuxf/ZU8Eg0Wg4uiTNh6XPJ/omg==}
     engines: {node: '>=16'}
     hasBin: true
 
@@ -1789,7 +1789,7 @@ snapshots:
 
   markdown-table@3.0.3: {}
 
-  markdown-to-html-cli@5.0.0:
+  markdown-to-html-cli@5.0.2:
     dependencies:
       '@types/fs-extra': 11.0.2
       '@types/minimist': 1.2.3
