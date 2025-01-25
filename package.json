@@ -20,7 +20,7 @@
     "lodash": "4.17.21",
     "markdown-to-html-cli": "5.0.2",
     "prettier": "3.4.2",
-    "wrangler": "3.99.0"
+    "wrangler": "3.105.1"
   },
   "resolutions": {
     "braces": ">=3.0.3",
