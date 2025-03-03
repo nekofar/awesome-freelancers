@@ -16,8 +16,8 @@ importers:
   .:
     devDependencies:
       json2md:
-        specifier: 2.0.1
-        version: 2.0.1
+        specifier: 2.0.2
+        version: 2.0.2
       lodash:
         specifier: 4.17.21
         version: 4.17.21
@@ -577,8 +577,8 @@ packages:
   image2uri@2.1.2:
     resolution: {integrity: sha512-3b2zRma8I3zulb4OCkZruRw1VsnysT9phBzOJj+x3lPkwybJtNa5Sz6Dw8jSQI6OL7Ns4H5h8Y26EJbwq4GhQQ==}
 
-  indento@1.1.13:
-    resolution: {integrity: sha512-YZWk3mreBEM7sBPddsiQnW9Z8SGg/gNpFfscJq00HCDS7pxcQWWWMSVKJU7YkTRyDu1Zv2s8zaK8gQWKmCXHlg==}
+  indento@1.1.14:
+    resolution: {integrity: sha512-K4cK97v4M/ucCAbe3LUpg994folYL0WnEiCFxHXAIowKLbBb/Ahiazkz3Ao5gRar4i9pDr3imcpq4suOu0FbNw==}
 
   is-alphabetical@2.0.1:
     resolution: {integrity: sha512-FWyyY60MeTNyeSRpkM2Iry0G9hpr7/9kD40mD/cGQEuilcZYS4okz8SN2Q6rLCJ8gbCt6fN+rC+6tMGS99LaxQ==}
@@ -613,8 +613,8 @@ packages:
   jackspeak@3.4.3:
     resolution: {integrity: sha512-OGlZQpz2yfahA/Rd1Y8Cd9SIEsqvXkLVoSw/cgwhnhFMDbsQFeZYoJJ7bIZBS9BcamUW96asq/npPWugM+RQBw==}
 
-  json2md@2.0.1:
-    resolution: {integrity: sha512-VbwmZ83qmUfKBS2pUOHlzNKEZFPBeJSbzEok3trMYyboZUgdHNn1XZfc1uT8UZs1GHCrmRUBXCfqw4YmmQuOhw==}
+  json2md@2.0.2:
+    resolution: {integrity: sha512-bPXMyPSZRsN2Xh5tNWA4RjREnYmDK2GFO8eYOTbHSfVPfrFaqzIqFWN3gdf1bya65cm9Mf2PBSwvM7sWGEeuVA==}
 
   jsonfile@6.1.0:
     resolution: {integrity: sha512-5dgndWOriYSm5cnYaJNhalLNDKOqFwyDB/rr1E9ZsGciGvKPs8R2xYGCacuf3z6K1YKDz182fd+fY3cn3pMqXQ==}
@@ -1726,7 +1726,7 @@ snapshots:
     dependencies:
       node-fetch: 3.3.2
 
-  indento@1.1.13: {}
+  indento@1.1.14: {}
 
   is-alphabetical@2.0.1: {}
 
@@ -1755,9 +1755,9 @@ snapshots:
     optionalDependencies:
       '@pkgjs/parseargs': 0.11.0
 
-  json2md@2.0.1:
+  json2md@2.0.2:
     dependencies:
-      indento: 1.1.13
+      indento: 1.1.14
 
   jsonfile@6.1.0:
     dependencies:
