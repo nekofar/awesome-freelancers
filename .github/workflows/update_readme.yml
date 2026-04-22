@@ -15,7 +15,7 @@ jobs:
         node-version: [22.x]
 
     steps:
-      - uses: pnpm/action-setup@v4.2.0
+      - uses: pnpm/action-setup@v6.0.3
         name: Install pnpm
         id: pnpm-install
         with:
